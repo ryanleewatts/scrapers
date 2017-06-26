@@ -1,4 +1,4 @@
-# scrapers
+# Scrapers
 This is where I keep all the scraper scripts that I cobble together.
 
 So far, we've got: 
