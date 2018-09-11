@@ -1,170 +1,170 @@
 [
   {
-    "Offence": "Supply of cannabis",
-    "Year": 2012,
+    "Offence": "Possession of cannabis",
     "Year_label": "2011/12",
-    "Under_18": 114.5756458,
-    "Over_18": 126.8292683
-  },
-  {
-    "Offence": "Possession of cannabis with intent to supply",
     "Year": 2012,
-    "Year_label": "2011/12",
-    "Under_18": 222.733711,
-    "Over_18": 123.6842105
+    "U18 index": 100,
+    "O18 index": 100
   },
   {
     "Offence": "Possession of cannabis",
+    "Year_label": "2012/13",
+    "Year": 2013,
+    "U18 index": 94.12295399,
+    "O18 index": 84.88483685
+  },
+  {
+    "Offence": "Possession of cannabis",
+    "Year_label": "2013/14",
+    "Year": 2014,
+    "U18 index": 92.45607252,
+    "O18 index": 61.97216891
+  },
+  {
+    "Offence": "Possession of cannabis",
+    "Year_label": "2014/15",
+    "Year": 2015,
+    "U18 index": 82.95742579,
+    "O18 index": 48.46449136
+  },
+  {
+    "Offence": "Possession of cannabis",
+    "Year_label": "2015/16",
+    "Year": 2016,
+    "U18 index": 70.20234566,
+    "O18 index": 41.93857965
+  },
+  {
+    "Offence": "Possession of cannabis",
+    "Year_label": "2016/17",
+    "Year": 2017,
+    "U18 index": 64.65180221,
+    "O18 index": 39.53934741
+  },
+  {
+    "Offence": "Possession of cannabis with intent to supply",
+    "Year_label": "2011/12",
     "Year": 2012,
-    "Year_label": "2011/12",
-    "Under_18": 236.3867168,
-    "Over_18": 126.4563107
+    "U18 index": 100,
+    "O18 index": 100
   },
   {
-    "Offence": "Cultivation of cannabis",
+    "Offence": "Possession of cannabis with intent to supply",
+    "Year_label": "2012/13",
+    "Year": 2013,
+    "U18 index": 99.07790143,
+    "O18 index": 96.80851064
+  },
+  {
+    "Offence": "Possession of cannabis with intent to supply",
+    "Year_label": "2013/14",
+    "Year": 2014,
+    "U18 index": 109.1573927,
+    "O18 index": 104.787234
+  },
+  {
+    "Offence": "Possession of cannabis with intent to supply",
+    "Year_label": "2014/15",
+    "Year": 2015,
+    "U18 index": 101.6534181,
+    "O18 index": 126.5957447
+  },
+  {
+    "Offence": "Possession of cannabis with intent to supply",
+    "Year_label": "2015/16",
+    "Year": 2016,
+    "U18 index": 88.45786963,
+    "O18 index": 112.7659574
+  },
+  {
+    "Offence": "Possession of cannabis with intent to supply",
+    "Year_label": "2016/17",
+    "Year": 2017,
+    "U18 index": 77.20190779,
+    "O18 index": 102.1276596
+  },
+  {
+    "Offence": "Supply of cannabis",
+    "Year_label": "2011/12",
     "Year": 2012,
+    "U18 index": 100,
+    "O18 index": 100
+  },
+  {
+    "Offence": "Supply of cannabis",
+    "Year_label": "2012/13",
+    "Year": 2013,
+    "U18 index": 97.26247987,
+    "O18 index": 105.7692308
+  },
+  {
+    "Offence": "Supply of cannabis",
+    "Year_label": "2013/14",
+    "Year": 2014,
+    "U18 index": 96.77938808,
+    "O18 index": 117.3076923
+  },
+  {
+    "Offence": "Supply of cannabis",
+    "Year_label": "2014/15",
+    "Year": 2015,
+    "U18 index": 101.1272142,
+    "O18 index": 126.9230769
+  },
+  {
+    "Offence": "Supply of cannabis",
+    "Year_label": "2015/16",
+    "Year": 2016,
+    "U18 index": 76.8115942,
+    "O18 index": 78.84615385
+  },
+  {
+    "Offence": "Supply of cannabis",
+    "Year_label": "2016/17",
+    "Year": 2017,
+    "U18 index": 81.32045089,
+    "O18 index": 121.1538462
+  },
+  {
+    "Offence": "Cultivation of cannabis",
     "Year_label": "2011/12",
-    "Under_18": 386.3390929,
-    "Over_18": 200
+    "Year": 2012,
+    "U18 index": 100,
+    "O18 index": 100
   },
   {
-    "Offence": "Supply of cannabis",
-    "Year": 2013,
+    "Offence": "Cultivation of cannabis",
     "Year_label": "2012/13",
-    "Under_18": 111.4391144,
-    "Over_18": 134.1463415
-  },
-  {
-    "Offence": "Possession of cannabis with intent to supply",
     "Year": 2013,
-    "Year_label": "2012/13",
-    "Under_18": 220.6798867,
-    "Over_18": 119.7368421
-  },
-  {
-    "Offence": "Possession of cannabis",
-    "Year": 2013,
-    "Year_label": "2012/13",
-    "Under_18": 222.4941607,
-    "Over_18": 107.342233
+    "U18 index": 98.53249476,
+    "O18 index": 62.65822785
   },
   {
     "Offence": "Cultivation of cannabis",
-    "Year": 2013,
-    "Year_label": "2012/13",
-    "Under_18": 380.6695464,
-    "Over_18": 125.3164557
-  },
-  {
-    "Offence": "Supply of cannabis",
-    "Year": 2014,
     "Year_label": "2013/14",
-    "Under_18": 110.8856089,
-    "Over_18": 148.7804878
-  },
-  {
-    "Offence": "Possession of cannabis",
     "Year": 2014,
-    "Year_label": "2013/14",
-    "Under_18": 218.5538743,
-    "Over_18": 78.36771845
-  },
-  {
-    "Offence": "Possession of cannabis with intent to supply",
-    "Year": 2014,
-    "Year_label": "2013/14",
-    "Under_18": 243.1303116,
-    "Over_18": 129.6052632
+    "U18 index": 95.96086653,
+    "O18 index": 42.40506329
   },
   {
     "Offence": "Cultivation of cannabis",
-    "Year": 2014,
-    "Year_label": "2013/14",
-    "Under_18": 370.7343413,
-    "Over_18": 84.81012658
-  },
-  {
-    "Offence": "Supply of cannabis",
-    "Year": 2015,
     "Year_label": "2014/15",
-    "Under_18": 115.8671587,
-    "Over_18": 160.9756098
-  },
-  {
-    "Offence": "Possession of cannabis",
     "Year": 2015,
-    "Year_label": "2014/15",
-    "Under_18": 196.1003351,
-    "Over_18": 61.28640777
-  },
-  {
-    "Offence": "Possession of cannabis with intent to supply",
-    "Year": 2015,
-    "Year_label": "2014/15",
-    "Under_18": 226.4164306,
-    "Over_18": 156.5789474
+    "U18 index": 79.10552061,
+    "O18 index": 34.17721519
   },
   {
     "Offence": "Cultivation of cannabis",
-    "Year": 2015,
-    "Year_label": "2014/15",
-    "Under_18": 305.6155508,
-    "Over_18": 68.35443038
-  },
-  {
-    "Offence": "Supply of cannabis",
-    "Year": 2016,
     "Year_label": "2015/16",
-    "Under_18": 88.00738007,
-    "Over_18": 100
-  },
-  {
-    "Offence": "Possession of cannabis",
     "Year": 2016,
-    "Year_label": "2015/16",
-    "Under_18": 165.94902,
-    "Over_18": 53.03398058
-  },
-  {
-    "Offence": "Possession of cannabis with intent to supply",
-    "Year": 2016,
-    "Year_label": "2015/16",
-    "Under_18": 197.0254958,
-    "Over_18": 139.4736842
+    "U18 index": 61.00628931,
+    "O18 index": 19.62025316
   },
   {
     "Offence": "Cultivation of cannabis",
-    "Year": 2016,
-    "Year_label": "2015/16",
-    "Under_18": 235.6911447,
-    "Over_18": 39.24050633
-  },
-  {
-    "Offence": "Supply of cannabis",
-    "Year": 2017,
     "Year_label": "2016/17",
-    "Under_18": 93.17343173,
-    "Over_18": 153.6585366
-  },
-  {
-    "Offence": "Cultivation of cannabis",
     "Year": 2017,
-    "Year_label": "2016/17",
-    "Under_18": 143.0345572,
-    "Over_18": 26.58227848
-  },
-  {
-    "Offence": "Possession of cannabis",
-    "Year": 2017,
-    "Year_label": "2016/17",
-    "Under_18": 152.8282726,
-    "Over_18": 50
-  },
-  {
-    "Offence": "Possession of cannabis with intent to supply",
-    "Year": 2017,
-    "Year_label": "2016/17",
-    "Under_18": 171.9546742,
-    "Over_18": 126.3157895
+    "U18 index": 37.0230608,
+    "O18 index": 13.29113924
   }
 ]
