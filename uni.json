@@ -1,0 +1,1172 @@
+[
+  {
+    "Offence": "Abertay University",
+    "Year": 2013,
+    "Value": 6.462303231
+  },
+  {
+    "Offence": "Abertay University",
+    "Year": 2014,
+    "Value": 7.139803335
+  },
+  {
+    "Offence": "Abertay University",
+    "Year": 2015,
+    "Value": 8.243306717
+  },
+  {
+    "Offence": "Abertay University",
+    "Year": 2016,
+    "Value": 8.697776692
+  },
+  {
+    "Offence": "Abertay University",
+    "Year": 2017,
+    "Value": 9.38215103
+  },
+  {
+    "Offence": "Abertay University",
+    "Year": 2018,
+    "Value": 9.664170089
+  },
+  {
+    "Offence": "Aston University",
+    "Year": 2013,
+    "Value": 2.363234933
+  },
+  {
+    "Offence": "Aston University",
+    "Year": 2014,
+    "Value": 2.807420785
+  },
+  {
+    "Offence": "Aston University",
+    "Year": 2015,
+    "Value": 2.797731569
+  },
+  {
+    "Offence": "Aston University",
+    "Year": 2016,
+    "Value": 2.69145394
+  },
+  {
+    "Offence": "Aston University",
+    "Year": 2017,
+    "Value": 3.19416499
+  },
+  {
+    "Offence": "Aston University",
+    "Year": 2018,
+    "Value": 3.605654049
+  },
+  {
+    "Offence": "Bournemouth University",
+    "Year": 2013,
+    "Value": 3.633060854
+  },
+  {
+    "Offence": "Bournemouth University",
+    "Year": 2014,
+    "Value": 3.742676073
+  },
+  {
+    "Offence": "Bournemouth University",
+    "Year": 2015,
+    "Value": 3.620739043
+  },
+  {
+    "Offence": "Bournemouth University",
+    "Year": 2016,
+    "Value": 3.733695652
+  },
+  {
+    "Offence": "Bournemouth University",
+    "Year": 2017,
+    "Value": 4.659368028
+  },
+  {
+    "Offence": "Bournemouth University",
+    "Year": 2018,
+    "Value": 4.829327187
+  },
+  {
+    "Offence": "Brunel University London",
+    "Year": 2013,
+    "Value": 5.182729042
+  },
+  {
+    "Offence": "Brunel University London",
+    "Year": 2014,
+    "Value": 5.910200459
+  },
+  {
+    "Offence": "Brunel University London",
+    "Year": 2015,
+    "Value": 6.742706394
+  },
+  {
+    "Offence": "Brunel University London",
+    "Year": 2016,
+    "Value": 8.272030052
+  },
+  {
+    "Offence": "Brunel University London",
+    "Year": 2017,
+    "Value": 8.823761751
+  },
+  {
+    "Offence": "Brunel University London",
+    "Year": 2018,
+    "Value": 7.063836149
+  },
+  {
+    "Offence": "Buckinghamshire New University",
+    "Year": 2013,
+    "Value": 3.577991568
+  },
+  {
+    "Offence": "Buckinghamshire New University",
+    "Year": 2014,
+    "Value": 4.141754539
+  },
+  {
+    "Offence": "Buckinghamshire New University",
+    "Year": 2015,
+    "Value": 4.120752984
+  },
+  {
+    "Offence": "Buckinghamshire New University",
+    "Year": 2016,
+    "Value": 3.715590668
+  },
+  {
+    "Offence": "Buckinghamshire New University",
+    "Year": 2017,
+    "Value": 3.461982305
+  },
+  {
+    "Offence": "Buckinghamshire New University",
+    "Year": 2018,
+    "Value": 4.052248775
+  },
+  {
+    "Offence": "Cranfield University",
+    "Year": 2013,
+    "Value": 2.040423484
+  },
+  {
+    "Offence": "Cranfield University",
+    "Year": 2014,
+    "Value": 1.832844575
+  },
+  {
+    "Offence": "Cranfield University",
+    "Year": 2015,
+    "Value": 1.733847066
+  },
+  {
+    "Offence": "Cranfield University",
+    "Year": 2016,
+    "Value": 1.842063111
+  },
+  {
+    "Offence": "Cranfield University",
+    "Year": 2017,
+    "Value": 1.516698265
+  },
+  {
+    "Offence": "Cranfield University",
+    "Year": 2018,
+    "Value": 1.542008935
+  },
+  {
+    "Offence": "Edge Hill University",
+    "Year": 2013,
+    "Value": 2.21742649
+  },
+  {
+    "Offence": "Edge Hill University",
+    "Year": 2014,
+    "Value": 2.686086074
+  },
+  {
+    "Offence": "Edge Hill University",
+    "Year": 2015,
+    "Value": 3.129445235
+  },
+  {
+    "Offence": "Edge Hill University",
+    "Year": 2016,
+    "Value": 4.408546789
+  },
+  {
+    "Offence": "Edge Hill University",
+    "Year": 2017,
+    "Value": 5.427069645
+  },
+  {
+    "Offence": "Edge Hill University",
+    "Year": 2018,
+    "Value": 6.150182124
+  },
+  {
+    "Offence": "Glyndwr University",
+    "Year": 2013,
+    "Value": 1.244131455
+  },
+  {
+    "Offence": "Glyndwr University",
+    "Year": 2014,
+    "Value": 1.296847115
+  },
+  {
+    "Offence": "Glyndwr University",
+    "Year": 2015,
+    "Value": 1.69992609
+  },
+  {
+    "Offence": "Glyndwr University",
+    "Year": 2016,
+    "Value": 2.207207207
+  },
+  {
+    "Offence": "Glyndwr University",
+    "Year": 2017,
+    "Value": 2.057035998
+  },
+  {
+    "Offence": "Glyndwr University",
+    "Year": 2018,
+    "Value": 3.050788698
+  },
+  {
+    "Offence": "Guildhall School of Music and Drama",
+    "Year": 2013,
+    "Value": 18.74285714
+  },
+  {
+    "Offence": "Guildhall School of Music and Drama",
+    "Year": 2014,
+    "Value": 19.9339207
+  },
+  {
+    "Offence": "Guildhall School of Music and Drama",
+    "Year": 2015,
+    "Value": 21.36752137
+  },
+  {
+    "Offence": "Guildhall School of Music and Drama",
+    "Year": 2016,
+    "Value": 26.06882169
+  },
+  {
+    "Offence": "Guildhall School of Music and Drama",
+    "Year": 2017,
+    "Value": 23.02752294
+  },
+  {
+    "Offence": "Guildhall School of Music and Drama",
+    "Year": 2018,
+    "Value": 19.83532934
+  },
+  {
+    "Offence": "Harper Adams University",
+    "Year": 2013,
+    "Value": 4.614485981
+  },
+  {
+    "Offence": "Harper Adams University",
+    "Year": 2014,
+    "Value": 7.030129125
+  },
+  {
+    "Offence": "Harper Adams University",
+    "Year": 2015,
+    "Value": 4.644964782
+  },
+  {
+    "Offence": "Harper Adams University",
+    "Year": 2016,
+    "Value": 4.708290686
+  },
+  {
+    "Offence": "Harper Adams University",
+    "Year": 2017,
+    "Value": 5.112519117
+  },
+  {
+    "Offence": "Harper Adams University",
+    "Year": 2018,
+    "Value": 8.807713703
+  },
+  {
+    "Offence": "Keele University",
+    "Year": 2013,
+    "Value": 5.553371339
+  },
+  {
+    "Offence": "Keele University",
+    "Year": 2014,
+    "Value": 6.262366442
+  },
+  {
+    "Offence": "Keele University",
+    "Year": 2015,
+    "Value": 7.156095552
+  },
+  {
+    "Offence": "Keele University",
+    "Year": 2016,
+    "Value": 7.571186121
+  },
+  {
+    "Offence": "Keele University",
+    "Year": 2017,
+    "Value": 7.944137118
+  },
+  {
+    "Offence": "Keele University",
+    "Year": 2018,
+    "Value": 9.273294695
+  },
+  {
+    "Offence": "Kingston University",
+    "Year": 2013,
+    "Value": 1.056048474
+  },
+  {
+    "Offence": "Kingston University",
+    "Year": 2014,
+    "Value": 1.258443601
+  },
+  {
+    "Offence": "Kingston University",
+    "Year": 2015,
+    "Value": 1.185407393
+  },
+  {
+    "Offence": "Kingston University",
+    "Year": 2016,
+    "Value": 1.11959032
+  },
+  {
+    "Offence": "Kingston University",
+    "Year": 2017,
+    "Value": 0.9299753682
+  },
+  {
+    "Offence": "Kingston University",
+    "Year": 2018,
+    "Value": 1.350658232
+  },
+  {
+    "Offence": "Lancaster University",
+    "Year": 2013,
+    "Value": 3.802524365
+  },
+  {
+    "Offence": "Lancaster University",
+    "Year": 2014,
+    "Value": 4.572533849
+  },
+  {
+    "Offence": "Lancaster University",
+    "Year": 2015,
+    "Value": 4.845951386
+  },
+  {
+    "Offence": "Lancaster University",
+    "Year": 2016,
+    "Value": 6.058788242
+  },
+  {
+    "Offence": "Lancaster University",
+    "Year": 2017,
+    "Value": 7.321119446
+  },
+  {
+    "Offence": "Lancaster University",
+    "Year": 2018,
+    "Value": 8.337342773
+  },
+  {
+    "Offence": "Loughborough University",
+    "Year": 2013,
+    "Value": 3.522818255
+  },
+  {
+    "Offence": "Loughborough University",
+    "Year": 2014,
+    "Value": 3.836788026
+  },
+  {
+    "Offence": "Loughborough University",
+    "Year": 2015,
+    "Value": 4.282176723
+  },
+  {
+    "Offence": "Loughborough University",
+    "Year": 2016,
+    "Value": 4.345857854
+  },
+  {
+    "Offence": "Loughborough University",
+    "Year": 2017,
+    "Value": 4.411846419
+  },
+  {
+    "Offence": "Loughborough University",
+    "Year": 2018,
+    "Value": 4.604930645
+  },
+  {
+    "Offence": "Queen Margaret University",
+    "Year": 2013,
+    "Value": 4.736715557
+  },
+  {
+    "Offence": "Queen Margaret University",
+    "Year": 2014,
+    "Value": 4.857344966
+  },
+  {
+    "Offence": "Queen Margaret University",
+    "Year": 2015,
+    "Value": 5.25443787
+  },
+  {
+    "Offence": "Queen Margaret University",
+    "Year": 2016,
+    "Value": 4.752760442
+  },
+  {
+    "Offence": "Queen Margaret University",
+    "Year": 2017,
+    "Value": 4.593890599
+  },
+  {
+    "Offence": "Queen Margaret University",
+    "Year": 2018,
+    "Value": 4.180366369
+  },
+  {
+    "Offence": "Queen Mary University of London",
+    "Year": 2013,
+    "Value": 3.839686099
+  },
+  {
+    "Offence": "Queen Mary University of London",
+    "Year": 2014,
+    "Value": 3.735080989
+  },
+  {
+    "Offence": "Queen Mary University of London",
+    "Year": 2015,
+    "Value": 4.151533495
+  },
+  {
+    "Offence": "Queen Mary University of London",
+    "Year": 2016,
+    "Value": 4.23372823
+  },
+  {
+    "Offence": "Queen Mary University of London",
+    "Year": 2017,
+    "Value": 2.820970346
+  },
+  {
+    "Offence": "Queen Mary University of London",
+    "Year": 2018,
+    "Value": 3.023138638
+  },
+  {
+    "Offence": "Royal Academy of Music",
+    "Year": 2013,
+    "Value": 6.456043956
+  },
+  {
+    "Offence": "Royal Academy of Music",
+    "Year": 2014,
+    "Value": 7.64075067
+  },
+  {
+    "Offence": "Royal Academy of Music",
+    "Year": 2015,
+    "Value": 9.512485137
+  },
+  {
+    "Offence": "Royal Academy of Music",
+    "Year": 2016,
+    "Value": 8.4643289
+  },
+  {
+    "Offence": "Royal Academy of Music",
+    "Year": 2017,
+    "Value": 11.625
+  },
+  {
+    "Offence": "Royal Academy of Music",
+    "Year": 2018,
+    "Value": 13.29268293
+  },
+  {
+    "Offence": "Royal College of Art",
+    "Year": 2013,
+    "Value": 8.486789432
+  },
+  {
+    "Offence": "Royal College of Art",
+    "Year": 2014,
+    "Value": 8.205841446
+  },
+  {
+    "Offence": "Royal College of Art",
+    "Year": 2015,
+    "Value": 9.487534626
+  },
+  {
+    "Offence": "Royal College of Art",
+    "Year": 2016,
+    "Value": 9.591584158
+  },
+  {
+    "Offence": "Royal College of Art",
+    "Year": 2017,
+    "Value": 6.302521008
+  },
+  {
+    "Offence": "Royal College of Art",
+    "Year": 2018,
+    "Value": 5.985748219
+  },
+  {
+    "Offence": "Royal Holloway",
+    "Year": 2013,
+    "Value": 6.233410395
+  },
+  {
+    "Offence": "Royal Holloway",
+    "Year": 2014,
+    "Value": 7.863802189
+  },
+  {
+    "Offence": "Royal Holloway",
+    "Year": 2015,
+    "Value": 8.060552443
+  },
+  {
+    "Offence": "Royal Holloway",
+    "Year": 2016,
+    "Value": 8.679575752
+  },
+  {
+    "Offence": "Royal Holloway",
+    "Year": 2017,
+    "Value": 9.3481747
+  },
+  {
+    "Offence": "Royal Holloway",
+    "Year": 2018,
+    "Value": 8.964380551
+  },
+  {
+    "Offence": "Sheffield Hallam University",
+    "Year": 2013,
+    "Value": 2.41085316
+  },
+  {
+    "Offence": "Sheffield Hallam University",
+    "Year": 2014,
+    "Value": 2.954772047
+  },
+  {
+    "Offence": "Sheffield Hallam University",
+    "Year": 2015,
+    "Value": 3.323818585
+  },
+  {
+    "Offence": "Sheffield Hallam University",
+    "Year": 2016,
+    "Value": 3.090556808
+  },
+  {
+    "Offence": "Sheffield Hallam University",
+    "Year": 2017,
+    "Value": 3.867994938
+  },
+  {
+    "Offence": "Sheffield Hallam University",
+    "Year": 2018,
+    "Value": 3.5536886
+  },
+  {
+    "Offence": "St George's University, London",
+    "Year": 2013,
+    "Value": 3.668710423
+  },
+  {
+    "Offence": "St George's University, London",
+    "Year": 2014,
+    "Value": 4.765082755
+  },
+  {
+    "Offence": "St George's University, London",
+    "Year": 2015,
+    "Value": 4.353504571
+  },
+  {
+    "Offence": "St George's University, London",
+    "Year": 2016,
+    "Value": 4.925002953
+  },
+  {
+    "Offence": "St George's University, London",
+    "Year": 2017,
+    "Value": 5.68627451
+  },
+  {
+    "Offence": "St George's University, London",
+    "Year": 2018,
+    "Value": 7.142857143
+  },
+  {
+    "Offence": "Staffordshire University",
+    "Year": 2013,
+    "Value": 2.126998913
+  },
+  {
+    "Offence": "Staffordshire University",
+    "Year": 2014,
+    "Value": 2.688345138
+  },
+  {
+    "Offence": "Staffordshire University",
+    "Year": 2015,
+    "Value": 3.314722304
+  },
+  {
+    "Offence": "Staffordshire University",
+    "Year": 2016,
+    "Value": 3.372813082
+  },
+  {
+    "Offence": "Staffordshire University",
+    "Year": 2017,
+    "Value": 3.934010152
+  },
+  {
+    "Offence": "Staffordshire University",
+    "Year": 2018,
+    "Value": 3.887746301
+  },
+  {
+    "Offence": "University College London",
+    "Year": 2013,
+    "Value": 10.50640497
+  },
+  {
+    "Offence": "University College London",
+    "Year": 2014,
+    "Value": 8.815274265
+  },
+  {
+    "Offence": "University College London",
+    "Year": 2015,
+    "Value": 8.575824032
+  },
+  {
+    "Offence": "University College London",
+    "Year": 2016,
+    "Value": 7.887662151
+  },
+  {
+    "Offence": "University College London",
+    "Year": 2017,
+    "Value": 7.658399412
+  },
+  {
+    "Offence": "University College London",
+    "Year": 2018,
+    "Value": 6.812874648
+  },
+  {
+    "Offence": "University of Aberdeen",
+    "Year": 2013,
+    "Value": 3.758963683
+  },
+  {
+    "Offence": "University of Aberdeen",
+    "Year": 2014,
+    "Value": 4.047497446
+  },
+  {
+    "Offence": "University of Aberdeen",
+    "Year": 2015,
+    "Value": 4.216132965
+  },
+  {
+    "Offence": "University of Aberdeen",
+    "Year": 2016,
+    "Value": 4.828333015
+  },
+  {
+    "Offence": "University of Aberdeen",
+    "Year": 2017,
+    "Value": 5.107761306
+  },
+  {
+    "Offence": "University of Aberdeen",
+    "Year": 2018,
+    "Value": 5.569994093
+  },
+  {
+    "Offence": "University of Bedfordshire",
+    "Year": 2013,
+    "Value": 0.7806139553
+  },
+  {
+    "Offence": "University of Bedfordshire",
+    "Year": 2014,
+    "Value": 1.009014546
+  },
+  {
+    "Offence": "University of Bedfordshire",
+    "Year": 2015,
+    "Value": 1.328474018
+  },
+  {
+    "Offence": "University of Bedfordshire",
+    "Year": 2016,
+    "Value": 1.43618404
+  },
+  {
+    "Offence": "University of Bedfordshire",
+    "Year": 2017,
+    "Value": 1.590094052
+  },
+  {
+    "Offence": "University of Bedfordshire",
+    "Year": 2018,
+    "Value": 1.417333995
+  },
+  {
+    "Offence": "University of Chichester",
+    "Year": 2013,
+    "Value": 2.486486486
+  },
+  {
+    "Offence": "University of Chichester",
+    "Year": 2014,
+    "Value": 2.342502218
+  },
+  {
+    "Offence": "University of Chichester",
+    "Year": 2015,
+    "Value": 2.626262626
+  },
+  {
+    "Offence": "University of Chichester",
+    "Year": 2016,
+    "Value": 3.242753623
+  },
+  {
+    "Offence": "University of Chichester",
+    "Year": 2017,
+    "Value": 3.393501805
+  },
+  {
+    "Offence": "University of Chichester",
+    "Year": 2018,
+    "Value": 3.744292237
+  },
+  {
+    "Offence": "University of Derby",
+    "Year": 2013,
+    "Value": 2.199563649
+  },
+  {
+    "Offence": "University of Derby",
+    "Year": 2014,
+    "Value": 2.055718983
+  },
+  {
+    "Offence": "University of Derby",
+    "Year": 2015,
+    "Value": 2.134498362
+  },
+  {
+    "Offence": "University of Derby",
+    "Year": 2016,
+    "Value": 2.887054704
+  },
+  {
+    "Offence": "University of Derby",
+    "Year": 2017,
+    "Value": 3.592592593
+  },
+  {
+    "Offence": "University of Derby",
+    "Year": 2018,
+    "Value": 4.466141966
+  },
+  {
+    "Offence": "University of Dundee",
+    "Year": 2013,
+    "Value": 4.125927467
+  },
+  {
+    "Offence": "University of Dundee",
+    "Year": 2014,
+    "Value": 4.582345759
+  },
+  {
+    "Offence": "University of Dundee",
+    "Year": 2015,
+    "Value": 5.196988524
+  },
+  {
+    "Offence": "University of Dundee",
+    "Year": 2016,
+    "Value": 5.323364486
+  },
+  {
+    "Offence": "University of Dundee",
+    "Year": 2017,
+    "Value": 5.813871446
+  },
+  {
+    "Offence": "University of Dundee",
+    "Year": 2018,
+    "Value": 6.255055271
+  },
+  {
+    "Offence": "University of East Anglia",
+    "Year": 2013,
+    "Value": 4.163602421
+  },
+  {
+    "Offence": "University of East Anglia",
+    "Year": 2014,
+    "Value": 4.733228276
+  },
+  {
+    "Offence": "University of East Anglia",
+    "Year": 2015,
+    "Value": 3.758881504
+  },
+  {
+    "Offence": "University of East Anglia",
+    "Year": 2016,
+    "Value": 2.56867443
+  },
+  {
+    "Offence": "University of East Anglia",
+    "Year": 2017,
+    "Value": 2.051897875
+  },
+  {
+    "Offence": "University of East Anglia",
+    "Year": 2018,
+    "Value": 2.176626229
+  },
+  {
+    "Offence": "University of Essex",
+    "Year": 2013,
+    "Value": 3.490490418
+  },
+  {
+    "Offence": "University of Essex",
+    "Year": 2014,
+    "Value": 3.641393749
+  },
+  {
+    "Offence": "University of Essex",
+    "Year": 2015,
+    "Value": 3.127894549
+  },
+  {
+    "Offence": "University of Essex",
+    "Year": 2016,
+    "Value": 2.904416986
+  },
+  {
+    "Offence": "University of Essex",
+    "Year": 2017,
+    "Value": 2.215315434
+  },
+  {
+    "Offence": "University of Essex",
+    "Year": 2018,
+    "Value": 2.014493717
+  },
+  {
+    "Offence": "University of Glasgow",
+    "Year": 2013,
+    "Value": 5.807772743
+  },
+  {
+    "Offence": "University of Glasgow",
+    "Year": 2014,
+    "Value": 6.76267234
+  },
+  {
+    "Offence": "University of Glasgow",
+    "Year": 2015,
+    "Value": 7.5
+  },
+  {
+    "Offence": "University of Glasgow",
+    "Year": 2016,
+    "Value": 8.142701525
+  },
+  {
+    "Offence": "University of Glasgow",
+    "Year": 2017,
+    "Value": 8.748873536
+  },
+  {
+    "Offence": "University of Glasgow",
+    "Year": 2018,
+    "Value": 8.827016346
+  },
+  {
+    "Offence": "University of Leicester",
+    "Year": 2013,
+    "Value": 4.307692308
+  },
+  {
+    "Offence": "University of Leicester",
+    "Year": 2014,
+    "Value": 3.837719298
+  },
+  {
+    "Offence": "University of Leicester",
+    "Year": 2015,
+    "Value": 3.84596298
+  },
+  {
+    "Offence": "University of Leicester",
+    "Year": 2016,
+    "Value": 6.216103463
+  },
+  {
+    "Offence": "University of Leicester",
+    "Year": 2017,
+    "Value": 7.281146855
+  },
+  {
+    "Offence": "University of Leicester",
+    "Year": 2018,
+    "Value": 8.600522193
+  },
+  {
+    "Offence": "University of Sheffield",
+    "Year": 2013,
+    "Value": 1.663503856
+  },
+  {
+    "Offence": "University of Sheffield",
+    "Year": 2014,
+    "Value": 2.645729426
+  },
+  {
+    "Offence": "University of Sheffield",
+    "Year": 2015,
+    "Value": 3.437785214
+  },
+  {
+    "Offence": "University of Sheffield",
+    "Year": 2016,
+    "Value": 3.275798751
+  },
+  {
+    "Offence": "University of Sheffield",
+    "Year": 2017,
+    "Value": 3.531684975
+  },
+  {
+    "Offence": "University of Sheffield",
+    "Year": 2018,
+    "Value": 4.839156961
+  },
+  {
+    "Offence": "University of St Andrews",
+    "Year": 2013,
+    "Value": 12.16037985
+  },
+  {
+    "Offence": "University of St Andrews",
+    "Year": 2014,
+    "Value": 10.50890585
+  },
+  {
+    "Offence": "University of St Andrews",
+    "Year": 2015,
+    "Value": 9.614915915
+  },
+  {
+    "Offence": "University of St Andrews",
+    "Year": 2016,
+    "Value": 17.32779097
+  },
+  {
+    "Offence": "University of St Andrews",
+    "Year": 2017,
+    "Value": 14.87593899
+  },
+  {
+    "Offence": "University of St Andrews",
+    "Year": 2018,
+    "Value": 16.00656455
+  },
+  {
+    "Offence": "University of Strathclyde",
+    "Year": 2013,
+    "Value": 2.048955971
+  },
+  {
+    "Offence": "University of Strathclyde",
+    "Year": 2014,
+    "Value": 1.88531337
+  },
+  {
+    "Offence": "University of Strathclyde",
+    "Year": 2015,
+    "Value": 2.342132018
+  },
+  {
+    "Offence": "University of Strathclyde",
+    "Year": 2016,
+    "Value": 1.971830986
+  },
+  {
+    "Offence": "University of Strathclyde",
+    "Year": 2017,
+    "Value": 2.290210404
+  },
+  {
+    "Offence": "University of Strathclyde",
+    "Year": 2018,
+    "Value": 1.749731086
+  },
+  {
+    "Offence": "University of Surrey",
+    "Year": 2013,
+    "Value": 4.67235643
+  },
+  {
+    "Offence": "University of Surrey",
+    "Year": 2014,
+    "Value": 5.537720706
+  },
+  {
+    "Offence": "University of Surrey",
+    "Year": 2015,
+    "Value": 6.783028239
+  },
+  {
+    "Offence": "University of Surrey",
+    "Year": 2016,
+    "Value": 7.212041885
+  },
+  {
+    "Offence": "University of Surrey",
+    "Year": 2017,
+    "Value": 9.364463388
+  },
+  {
+    "Offence": "University of Surrey",
+    "Year": 2018,
+    "Value": 10.21511766
+  },
+  {
+    "Offence": "Universtiy of Westminster",
+    "Year": 2013,
+    "Value": 3.70260223
+  },
+  {
+    "Offence": "Universtiy of Westminster",
+    "Year": 2014,
+    "Value": 3.722772277
+  },
+  {
+    "Offence": "Universtiy of Westminster",
+    "Year": 2015,
+    "Value": 3.327632543
+  },
+  {
+    "Offence": "Universtiy of Westminster",
+    "Year": 2016,
+    "Value": 3.783114632
+  },
+  {
+    "Offence": "Universtiy of Westminster",
+    "Year": 2017,
+    "Value": 3.857506361
+  },
+  {
+    "Offence": "Universtiy of Westminster",
+    "Year": 2018,
+    "Value": 4.399037231
+  },
+  {
+    "Offence": "Unversity of Exeter",
+    "Year": 2013,
+    "Value": 5.622197309
+  },
+  {
+    "Offence": "Unversity of Exeter",
+    "Year": 2014,
+    "Value": 7.428881062
+  },
+  {
+    "Offence": "Unversity of Exeter",
+    "Year": 2015,
+    "Value": 7.592545315
+  },
+  {
+    "Offence": "Unversity of Exeter",
+    "Year": 2016,
+    "Value": 8.359990451
+  },
+  {
+    "Offence": "Unversity of Exeter",
+    "Year": 2017,
+    "Value": 11.1251981
+  },
+  {
+    "Offence": "Unversity of Exeter",
+    "Year": 2018,
+    "Value": 11.3797693
+  },
+  {
+    "Offence": "York St John University",
+    "Year": 2013,
+    "Value": 5.680921572
+  },
+  {
+    "Offence": "York St John University",
+    "Year": 2014,
+    "Value": 7.02837818
+  },
+  {
+    "Offence": "York St John University",
+    "Year": 2015,
+    "Value": 8.353632326
+  },
+  {
+    "Offence": "York St John University",
+    "Year": 2016,
+    "Value": 10.14198783
+  },
+  {
+    "Offence": "York St John University",
+    "Year": 2017,
+    "Value": 9.841740851
+  },
+  {
+    "Offence": "York St John University",
+    "Year": 2018,
+    "Value": 9.361702128
+  }
+]
