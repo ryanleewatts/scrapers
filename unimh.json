@@ -1,153 +1,9 @@
 [
   {
-    "Name": "Glyndwr University",
-    "Year": 2018,
-    "Demand": 161.4678899,
-    "Population": 68.63771565
-  },
-  {
-    "Name": "University of Bedfordshire",
-    "Year": 2018,
-    "Demand": 101.5228426,
-    "Population": 72.27514854
-  },
-  {
-    "Name": "Buckinghamshire New University",
-    "Year": 2018,
-    "Demand": 71.65354331,
-    "Population": 73.23622133
-  },
-  {
-    "Name": "University of Bedfordshire",
-    "Year": 2017,
-    "Demand": 119.2893401,
-    "Population": 75.69657857
-  },
-  {
-    "Name": "Glyndwr University",
-    "Year": 2017,
-    "Demand": 121.1009174,
-    "Population": 76.34741225
-  },
-  {
-    "Name": "University of Bedfordshire",
-    "Year": 2016,
-    "Demand": 112.1827411,
-    "Population": 78.81581643
-  },
-  {
-    "Name": "Glyndwr University",
-    "Year": 2016,
-    "Demand": 134.8623853,
-    "Population": 79.23854848
-  },
-  {
-    "Name": "Glyndwr University",
-    "Year": 2015,
-    "Demand": 105.5045872,
-    "Population": 80.48780488
-  },
-  {
-    "Name": "Staffordshire University",
-    "Year": 2018,
-    "Demand": 116.9660679,
-    "Population": 80.88109036
-  },
-  {
-    "Name": "Kingston University",
-    "Year": 2018,
-    "Demand": 87.13235294,
-    "Population": 81.18349218
-  },
-  {
     "Name": "Abertay University",
-    "Year": 2017,
-    "Demand": 110.4790419,
-    "Population": 84.07439077
-  },
-  {
-    "Name": "Staffordshire University",
-    "Year": 2017,
-    "Demand": 123.752495,
-    "Population": 84.56750376
-  },
-  {
-    "Name": "Buckinghamshire New University",
-    "Year": 2017,
-    "Demand": 70.86614173,
-    "Population": 84.78095445
-  },
-  {
-    "Name": "Edge Hill University",
-    "Year": 2018,
-    "Demand": 195.1111111,
-    "Population": 85.21458843
-  },
-  {
-    "Name": "University of Bedfordshire",
-    "Year": 2015,
-    "Demand": 114.7208122,
-    "Population": 87.13378406
-  },
-  {
-    "Name": "Abertay University",
-    "Year": 2016,
-    "Demand": 106.5868263,
-    "Population": 87.49465584
-  },
-  {
-    "Name": "Buckinghamshire New University",
-    "Year": 2016,
-    "Demand": 79.00262467,
-    "Population": 88.06391999
-  },
-  {
-    "Name": "Abertay University",
-    "Year": 2018,
-    "Demand": 119.760479,
-    "Population": 88.47798204
-  },
-  {
-    "Name": "St George's University, London",
-    "Year": 2018,
-    "Demand": 133.0532213,
-    "Population": 88.76134544
-  },
-  {
-    "Name": "York St John University",
-    "Year": 2017,
-    "Demand": 124.8953975,
-    "Population": 89.19276577
-  },
-  {
-    "Name": "Staffordshire University",
-    "Year": 2016,
-    "Demand": 111.9760479,
-    "Population": 89.2519854
-  },
-  {
-    "Name": "Ulster University",
-    "Year": 2018,
-    "Demand": 174.4769874,
-    "Population": 89.69153113
-  },
-  {
-    "Name": "Leeds Beckett",
-    "Year": 2018,
-    "Demand": 131.7241379,
-    "Population": 90.4524366
-  },
-  {
-    "Name": "Ulster University",
-    "Year": 2017,
-    "Demand": 135.6694561,
-    "Population": 90.70106562
-  },
-  {
-    "Name": "Edge Hill University",
-    "Year": 2017,
-    "Demand": 183.5555556,
-    "Population": 90.84940011
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
   },
   {
     "Name": "Abertay University",
@@ -156,886 +12,28 @@
     "Population": 91.02180419
   },
   {
-    "Name": "University of Leicester",
-    "Year": 2018,
-    "Demand": 204.5962733,
-    "Population": 91.29481312
-  },
-  {
-    "Name": "Staffordshire University",
-    "Year": 2015,
-    "Demand": 112.5748503,
-    "Population": 91.3017815
-  },
-  {
-    "Name": "University of Leicester",
+    "Name": "Abertay University",
     "Year": 2016,
-    "Demand": 148.0745342,
-    "Population": 91.4187643
-  },
-  {
-    "Name": "Kingston University",
-    "Year": 2017,
-    "Demand": 68.01470588,
-    "Population": 92.03756824
-  },
-  {
-    "Name": "Kingston University",
-    "Year": 2016,
-    "Demand": 81.98529412,
-    "Population": 92.15323401
-  },
-  {
-    "Name": "Edge Hill University",
-    "Year": 2016,
-    "Demand": 152.2222222,
-    "Population": 92.7475676
-  },
-  {
-    "Name": "Sheffield Hallam University",
-    "Year": 2017,
-    "Demand": 121.8813906,
-    "Population": 93.10553189
-  },
-  {
-    "Name": "University of Derby",
-    "Year": 2018,
-    "Demand": 202.5252525,
-    "Population": 93.22028033
-  },
-  {
-    "Name": "York St John University",
-    "Year": 2018,
-    "Demand": 124.2677824,
-    "Population": 93.29510366
-  },
-  {
-    "Name": "University of Derby",
-    "Year": 2017,
-    "Demand": 163.2996633,
-    "Population": 93.44177193
-  },
-  {
-    "Name": "Brunel University London",
-    "Year": 2017,
-    "Demand": 139.7997497,
-    "Population": 93.63858274
-  },
-  {
-    "Name": "Ulster University",
-    "Year": 2016,
-    "Demand": 116.3179916,
-    "Population": 93.69601795
-  },
-  {
-    "Name": "Harper Adams University",
-    "Year": 2017,
-    "Demand": 68.22157434,
-    "Population": 93.81020701
-  },
-  {
-    "Name": "York St John University",
-    "Year": 2016,
-    "Demand": 135.9832636,
-    "Population": 94.23614174
-  },
-  {
-    "Name": "Brunel University London",
-    "Year": 2016,
-    "Demand": 132.290363,
-    "Population": 94.51882536
-  },
-  {
-    "Name": "Buckinghamshire New University",
-    "Year": 2015,
-    "Demand": 94.22572178,
-    "Population": 94.7059463
-  },
-  {
-    "Name": "Sheffield Hallam University",
-    "Year": 2016,
-    "Demand": 99.48875256,
-    "Population": 95.11767727
-  },
-  {
-    "Name": "Sheffield Hallam University",
-    "Year": 2015,
-    "Demand": 107.1574642,
-    "Population": 95.25967552
-  },
-  {
-    "Name": "Brunel University London",
-    "Year": 2015,
-    "Demand": 108.7609512,
-    "Population": 95.33249501
-  },
-  {
-    "Name": "Kingston University",
-    "Year": 2015,
-    "Demand": 90.07352941,
-    "Population": 95.62320718
-  },
-  {
-    "Name": "Leeds Beckett",
-    "Year": 2017,
-    "Demand": 153.4482759,
-    "Population": 95.64307392
-  },
-  {
-    "Name": "University of Dundee",
-    "Year": 2016,
-    "Demand": 111.5987461,
-    "Population": 96.06406665
-  },
-  {
-    "Name": "University of Leicester",
-    "Year": 2015,
-    "Demand": 96.27329193,
-    "Population": 96.06693364
-  },
-  {
-    "Name": "Keele University",
-    "Year": 2015,
-    "Demand": 109.7946288,
-    "Population": 96.08231104
-  },
-  {
-    "Name": "Edge Hill University",
-    "Year": 2015,
-    "Demand": 112.4444444,
-    "Population": 96.51405718
-  },
-  {
-    "Name": "University of Chichester",
-    "Year": 2015,
-    "Demand": 108.3333333,
-    "Population": 96.6282165
-  },
-  {
-    "Name": "Universtiy of Westminster",
-    "Year": 2018,
-    "Demand": 114.2287234,
-    "Population": 96.66831683
-  },
-  {
-    "Name": "University of Leicester",
-    "Year": 2017,
-    "Demand": 183.6024845,
-    "Population": 96.77250191
-  },
-  {
-    "Name": "University of Derby",
-    "Year": 2016,
-    "Demand": 136.026936,
-    "Population": 96.85758782
-  },
-  {
-    "Name": "University of Chichester",
-    "Year": 2018,
-    "Demand": 155.3030303,
-    "Population": 97.16060337
-  },
-  {
-    "Name": "Universtiy of Westminster",
-    "Year": 2017,
-    "Demand": 100.7978723,
-    "Population": 97.27722772
-  },
-  {
-    "Name": "Leeds Beckett",
-    "Year": 2016,
-    "Demand": 152.4137931,
-    "Population": 97.91746608
-  },
-  {
-    "Name": "University of Chichester",
-    "Year": 2016,
-    "Demand": 135.6060606,
-    "Population": 97.95918367
-  },
-  {
-    "Name": "University of East Anglia",
-    "Year": 2015,
-    "Demand": 78.00237812,
-    "Population": 98.22152184
-  },
-  {
-    "Name": "Queen Margaret University",
-    "Year": 2016,
-    "Demand": 96.11650485,
-    "Population": 98.23154916
-  },
-  {
-    "Name": "University of Dundee",
-    "Year": 2015,
-    "Demand": 111.4420063,
-    "Population": 98.26186885
-  },
-  {
-    "Name": "University of Chichester",
-    "Year": 2017,
-    "Demand": 142.4242424,
-    "Population": 98.31410825
-  },
-  {
-    "Name": "Loughborough University",
-    "Year": 2015,
-    "Demand": 109.752322,
-    "Population": 98.3369959
-  },
-  {
-    "Name": "Sheffield Hallam University",
-    "Year": 2018,
-    "Demand": 118.5071575,
-    "Population": 98.53469893
-  },
-  {
-    "Name": "Brunel University London",
-    "Year": 2018,
-    "Demand": 118.2728411,
-    "Population": 98.95702345
-  },
-  {
-    "Name": "University of Aberdeen",
-    "Year": 2015,
-    "Demand": 103.6277603,
-    "Population": 99.4828907
-  },
-  {
-    "Name": "Queen Margaret University",
-    "Year": 2017,
-    "Demand": 94.17475728,
-    "Population": 99.5755718
-  },
-  {
-    "Name": "Queen Margaret University",
-    "Year": 2015,
-    "Demand": 107.7669903,
-    "Population": 99.62273049
-  },
-  {
-    "Name": "Lancaster University",
-    "Year": 2015,
-    "Demand": 105.9221658,
-    "Population": 99.94584139
-  },
-  {
-    "Name": "Universtiy of Westminster",
-    "Year": 2016,
-    "Demand": 101.5957447,
-    "Population": 99.97524752
+    "Demand": 106.5868263,
+    "Population": 87.49465584
   },
   {
     "Name": "Abertay University",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
+    "Year": 2017,
+    "Demand": 110.4790419,
+    "Population": 84.07439077
+  },
+  {
+    "Name": "Abertay University",
+    "Year": 2018,
+    "Demand": 119.760479,
+    "Population": 88.47798204
   },
   {
     "Name": "Aston University",
     "Year": 2014,
     "Demand": 100,
     "Population": 100
-  },
-  {
-    "Name": "Bournemouth University",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Brunel University London",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Buckinghamshire New University",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Cranfield University",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Edge Hill University",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Glyndwr University",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Goldsmiths, University of London",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Guildhall School of Music and Drama",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Harper Adams University",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Keele University",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Kingston University",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Lancaster University",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Leeds Beckett",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Loughborough University",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Newcastle University",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Queen Margaret University",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Queen Mary University of London",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Royal Academy of Music",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Royal Central School of Speech and Drama",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Royal College of Art",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Royal Holloway",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Sheffield Hallam University",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "St George's University, London",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Staffordshire University",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Ulster University",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "University College London",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "University of Aberdeen",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "University of Bedfordshire",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "University of Bristol",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "University of Chichester",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "University of Derby",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "University of Dundee",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "University of East Anglia",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "University of Essex",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "University of Glasgow",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "University of Leicester",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "University of Sheffield",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "University of St Andrews",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "University of Strathclyde",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "University of Surrey",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "University of the Arts London",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "University of York",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Universtiy of Westminster",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Unversity of Exeter",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "York St John University",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "University of Aberdeen",
-    "Year": 2016,
-    "Demand": 119.5583596,
-    "Population": 100.2234423
-  },
-  {
-    "Name": "Queen Margaret University",
-    "Year": 2018,
-    "Demand": 86.40776699,
-    "Population": 100.4008489
-  },
-  {
-    "Name": "Royal College of Art",
-    "Year": 2015,
-    "Demand": 116.1016949,
-    "Population": 100.4172462
-  },
-  {
-    "Name": "Leeds Beckett",
-    "Year": 2015,
-    "Demand": 160,
-    "Population": 100.652318
-  },
-  {
-    "Name": "University of York",
-    "Year": 2015,
-    "Demand": 110.951526,
-    "Population": 100.7090012
-  },
-  {
-    "Name": "University of the Arts London",
-    "Year": 2017,
-    "Demand": 215.3061224,
-    "Population": 100.8180863
-  },
-  {
-    "Name": "Ulster University",
-    "Year": 2015,
-    "Demand": 180.4393305,
-    "Population": 100.8375397
-  },
-  {
-    "Name": "University of East Anglia",
-    "Year": 2016,
-    "Demand": 54.8156956,
-    "Population": 101.0074291
-  },
-  {
-    "Name": "Royal Central School of Speech and Drama",
-    "Year": 2015,
-    "Demand": 188.4057971,
-    "Population": 101.0152284
-  },
-  {
-    "Name": "University of York",
-    "Year": 2016,
-    "Demand": 108.438061,
-    "Population": 101.0480888
-  },
-  {
-    "Name": "Goldsmiths, University of London",
-    "Year": 2015,
-    "Demand": 100,
-    "Population": 101.1624381
-  },
-  {
-    "Name": "University of the Arts London",
-    "Year": 2016,
-    "Demand": 189.1156463,
-    "Population": 101.1994915
-  },
-  {
-    "Name": "Universtiy of Westminster",
-    "Year": 2015,
-    "Demand": 90.55851064,
-    "Population": 101.3118812
-  },
-  {
-    "Name": "University of the Arts London",
-    "Year": 2015,
-    "Demand": 175.5102041,
-    "Population": 101.6251175
-  },
-  {
-    "Name": "University of Glasgow",
-    "Year": 2015,
-    "Demand": 112.8856624,
-    "Population": 101.7878329
-  },
-  {
-    "Name": "University of Dundee",
-    "Year": 2017,
-    "Demand": 129.153605,
-    "Population": 101.79559
-  },
-  {
-    "Name": "University of Sheffield",
-    "Year": 2015,
-    "Demand": 133.1369661,
-    "Population": 102.4625935
-  },
-  {
-    "Name": "University of Aberdeen",
-    "Year": 2017,
-    "Demand": 129.3375394,
-    "Population": 102.4897855
-  },
-  {
-    "Name": "York St John University",
-    "Year": 2015,
-    "Demand": 121.9665272,
-    "Population": 102.6172622
-  },
-  {
-    "Name": "University of Surrey",
-    "Year": 2015,
-    "Demand": 125.9552042,
-    "Population": 102.830877
-  },
-  {
-    "Name": "Guildhall School of Music and Drama",
-    "Year": 2015,
-    "Demand": 110.4972376,
-    "Population": 103.0837004
-  },
-  {
-    "Name": "Royal Holloway",
-    "Year": 2015,
-    "Demand": 105.6701031,
-    "Population": 103.0907985
-  },
-  {
-    "Name": "Lancaster University",
-    "Year": 2016,
-    "Demand": 136.7174281,
-    "Population": 103.1798839
-  },
-  {
-    "Name": "Newcastle University",
-    "Year": 2015,
-    "Demand": 129.6725784,
-    "Population": 103.7269451
-  },
-  {
-    "Name": "University of Strathclyde",
-    "Year": 2015,
-    "Demand": 129.3139293,
-    "Population": 104.0920315
-  },
-  {
-    "Name": "Royal Holloway",
-    "Year": 2016,
-    "Demand": 114.9484536,
-    "Population": 104.1447102
-  },
-  {
-    "Name": "Bournemouth University",
-    "Year": 2015,
-    "Demand": 100.9584665,
-    "Population": 104.3584838
-  },
-  {
-    "Name": "University of St Andrews",
-    "Year": 2015,
-    "Demand": 95.52058111,
-    "Population": 104.4020356
-  },
-  {
-    "Name": "Goldsmiths, University of London",
-    "Year": 2016,
-    "Demand": 88.27292111,
-    "Population": 104.8620237
-  },
-  {
-    "Name": "Keele University",
-    "Year": 2016,
-    "Demand": 126.8562401,
-    "Population": 104.9267907
-  },
-  {
-    "Name": "University of Essex",
-    "Year": 2015,
-    "Demand": 90.14373717,
-    "Population": 104.9424256
-  },
-  {
-    "Name": "Loughborough University",
-    "Year": 2016,
-    "Demand": 118.8854489,
-    "Population": 104.9593158
-  },
-  {
-    "Name": "University of the Arts London",
-    "Year": 2018,
-    "Demand": 281.377551,
-    "Population": 105.0024874
-  },
-  {
-    "Name": "University of Glasgow",
-    "Year": 2016,
-    "Demand": 126.6182698,
-    "Population": 105.1589412
-  },
-  {
-    "Name": "University of Bristol",
-    "Year": 2015,
-    "Demand": 101.8656716,
-    "Population": 105.2694212
-  },
-  {
-    "Name": "University of Essex",
-    "Year": 2016,
-    "Demand": 83.9835729,
-    "Population": 105.2938537
-  },
-  {
-    "Name": "Guildhall School of Music and Drama",
-    "Year": 2016,
-    "Demand": 138.121547,
-    "Population": 105.6167401
-  },
-  {
-    "Name": "Queen Mary University of London",
-    "Year": 2015,
-    "Demand": 117.403709,
-    "Population": 105.6265985
-  },
-  {
-    "Name": "Loughborough University",
-    "Year": 2018,
-    "Demand": 126.9349845,
-    "Population": 105.7611213
-  },
-  {
-    "Name": "University College London",
-    "Year": 2015,
-    "Demand": 102.9874214,
-    "Population": 105.862989
-  },
-  {
-    "Name": "Royal Central School of Speech and Drama",
-    "Year": 2016,
-    "Demand": 237.6811594,
-    "Population": 106.0913706
-  },
-  {
-    "Name": "University of Sheffield",
-    "Year": 2016,
-    "Demand": 131.3696613,
-    "Population": 106.1019327
-  },
-  {
-    "Name": "Unversity of Exeter",
-    "Year": 2015,
-    "Demand": 108.4609774,
-    "Population": 106.1230019
-  },
-  {
-    "Name": "University of Bristol",
-    "Year": 2016,
-    "Demand": 108.9552239,
-    "Population": 106.3071211
-  },
-  {
-    "Name": "University of Dundee",
-    "Year": 2018,
-    "Demand": 145.4545455,
-    "Population": 106.5574948
-  },
-  {
-    "Name": "Loughborough University",
-    "Year": 2017,
-    "Demand": 122.9102167,
-    "Population": 106.8895884
-  },
-  {
-    "Name": "University of St Andrews",
-    "Year": 2016,
-    "Demand": 176.6343826,
-    "Population": 107.1246819
-  },
-  {
-    "Name": "Royal Academy of Music",
-    "Year": 2017,
-    "Demand": 163.1578947,
-    "Population": 107.2386059
-  },
-  {
-    "Name": "Lancaster University",
-    "Year": 2017,
-    "Demand": 171.7428088,
-    "Population": 107.2649903
-  },
-  {
-    "Name": "Royal Holloway",
-    "Year": 2017,
-    "Demand": 127.7061856,
-    "Population": 107.4280503
-  },
-  {
-    "Name": "Newcastle University",
-    "Year": 2016,
-    "Demand": 166.9849932,
-    "Population": 107.50477
-  },
-  {
-    "Name": "Harper Adams University",
-    "Year": 2015,
-    "Demand": 71.13702624,
-    "Population": 107.6655052
-  },
-  {
-    "Name": "University of York",
-    "Year": 2017,
-    "Demand": 100.8378217,
-    "Population": 107.7681874
-  },
-  {
-    "Name": "University of East Anglia",
-    "Year": 2017,
-    "Demand": 46.73008323,
-    "Population": 107.7949122
-  },
-  {
-    "Name": "University of Aberdeen",
-    "Year": 2018,
-    "Demand": 148.7381703,
-    "Population": 108.0822268
   },
   {
     "Name": "Aston University",
@@ -1044,46 +42,34 @@
     "Population": 108.5618125
   },
   {
-    "Name": "University of Sheffield",
-    "Year": 2017,
-    "Demand": 145.3608247,
-    "Population": 108.8957294
+    "Name": "Aston University",
+    "Year": 2016,
+    "Demand": 113.4502924,
+    "Population": 118.3385323
   },
   {
-    "Name": "St George's University, London",
+    "Name": "Aston University",
     "Year": 2017,
-    "Demand": 129.9719888,
-    "Population": 108.9161773
+    "Demand": 148.5380117,
+    "Population": 130.5532753
+  },
+  {
+    "Name": "Aston University",
+    "Year": 2018,
+    "Demand": 176.0233918,
+    "Population": 137.0546708
   },
   {
     "Name": "Bournemouth University",
-    "Year": 2018,
-    "Demand": 140.5750799,
-    "Population": 108.9441588
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
   },
   {
-    "Name": "University of Glasgow",
-    "Year": 2017,
-    "Demand": 140.9558379,
-    "Population": 108.9555292
-  },
-  {
-    "Name": "Keele University",
-    "Year": 2017,
-    "Demand": 138.3886256,
-    "Population": 109.0918085
-  },
-  {
-    "Name": "University of Strathclyde",
-    "Year": 2018,
-    "Demand": 101.4553015,
-    "Population": 109.3168189
-  },
-  {
-    "Name": "Royal Academy of Music",
-    "Year": 2018,
-    "Demand": 191.2280702,
-    "Population": 109.919571
+    "Name": "Bournemouth University",
+    "Year": 2015,
+    "Demand": 100.9584665,
+    "Population": 104.3584838
   },
   {
     "Name": "Bournemouth University",
@@ -1092,238 +78,82 @@
     "Population": 110.0083702
   },
   {
-    "Name": "Harper Adams University",
-    "Year": 2018,
-    "Demand": 138.483965,
-    "Population": 110.5349457
-  },
-  {
-    "Name": "Royal Holloway",
-    "Year": 2018,
-    "Demand": 126.1597938,
-    "Population": 110.6708553
-  },
-  {
-    "Name": "Royal Academy of Music",
-    "Year": 2016,
-    "Demand": 122.8070175,
-    "Population": 110.8579088
-  },
-  {
-    "Name": "University of Derby",
-    "Year": 2015,
-    "Demand": 115.1515152,
-    "Population": 110.9015401
-  },
-  {
-    "Name": "Keele University",
-    "Year": 2018,
-    "Demand": 164.2969984,
-    "Population": 110.9517214
-  },
-  {
-    "Name": "Royal Central School of Speech and Drama",
-    "Year": 2018,
-    "Demand": 242.0289855,
-    "Population": 111.1675127
-  },
-  {
-    "Name": "University of Surrey",
-    "Year": 2016,
-    "Demand": 145.1910408,
-    "Population": 111.4840216
-  },
-  {
-    "Name": "University of Strathclyde",
-    "Year": 2017,
-    "Demand": 135.5509356,
-    "Population": 111.5862501
-  },
-  {
-    "Name": "University of York",
-    "Year": 2018,
-    "Demand": 130.9395572,
-    "Population": 111.6522811
-  },
-  {
-    "Name": "Royal Central School of Speech and Drama",
-    "Year": 2017,
-    "Demand": 205.7971014,
-    "Population": 111.6751269
-  },
-  {
-    "Name": "University of St Andrews",
-    "Year": 2017,
-    "Demand": 158.2324455,
-    "Population": 111.7811705
-  },
-  {
-    "Name": "Royal College of Art",
-    "Year": 2016,
-    "Demand": 131.3559322,
-    "Population": 112.3783032
-  },
-  {
-    "Name": "University of Sheffield",
-    "Year": 2018,
-    "Demand": 205.5964654,
-    "Population": 112.4064838
-  },
-  {
-    "Name": "University of Essex",
-    "Year": 2018,
-    "Demand": 62.21765914,
-    "Population": 112.4644833
-  },
-  {
-    "Name": "Lancaster University",
-    "Year": 2018,
-    "Demand": 205.2453469,
-    "Population": 112.5647969
-  },
-  {
-    "Name": "University of Strathclyde",
-    "Year": 2016,
-    "Demand": 117.8794179,
-    "Population": 112.7072473
-  },
-  {
-    "Name": "Royal Academy of Music",
-    "Year": 2015,
-    "Demand": 140.3508772,
-    "Population": 112.7345845
-  },
-  {
-    "Name": "University of East Anglia",
-    "Year": 2018,
-    "Demand": 51.843044,
-    "Population": 112.73638
-  },
-  {
-    "Name": "Queen Mary University of London",
-    "Year": 2016,
-    "Demand": 127.9600571,
-    "Population": 112.8889599
-  },
-  {
-    "Name": "Newcastle University",
-    "Year": 2017,
-    "Demand": 157.5716235,
-    "Population": 113.008268
-  },
-  {
-    "Name": "St George's University, London",
-    "Year": 2016,
-    "Demand": 116.8067227,
-    "Population": 113.0138815
-  },
-  {
-    "Name": "University of Essex",
-    "Year": 2017,
-    "Demand": 68.78850103,
-    "Population": 113.0701361
-  },
-  {
-    "Name": "Unversity of Exeter",
-    "Year": 2016,
-    "Demand": 127.7169949,
-    "Population": 113.4922785
-  },
-  {
-    "Name": "University of Glasgow",
-    "Year": 2018,
-    "Demand": 148.6388385,
-    "Population": 113.8771837
-  },
-  {
-    "Name": "Cranfield University",
-    "Year": 2016,
-    "Demand": 115,
-    "Population": 114.4244868
-  },
-  {
-    "Name": "University of Bristol",
-    "Year": 2017,
-    "Demand": 125.8084577,
-    "Population": 114.4706778
-  },
-  {
-    "Name": "University of Surrey",
-    "Year": 2017,
-    "Demand": 193.9393939,
-    "Population": 114.6869984
-  },
-  {
     "Name": "Bournemouth University",
     "Year": 2017,
     "Demand": 143.4504792,
     "Population": 115.2277891
   },
   {
-    "Name": "Goldsmiths, University of London",
-    "Year": 2017,
-    "Demand": 91.25799574,
-    "Population": 115.9102396
-  },
-  {
-    "Name": "University of St Andrews",
+    "Name": "Bournemouth University",
     "Year": 2018,
-    "Demand": 177.1186441,
-    "Population": 116.2849873
+    "Demand": 140.5750799,
+    "Population": 108.9441588
   },
   {
-    "Name": "Newcastle University",
-    "Year": 2018,
-    "Demand": 157.7762619,
-    "Population": 117.1592114
+    "Name": "Brunel University London",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
   },
   {
-    "Name": "Aston University",
-    "Year": 2016,
-    "Demand": 113.4502924,
-    "Population": 118.3385323
-  },
-  {
-    "Name": "Unversity of Exeter",
-    "Year": 2017,
-    "Demand": 179.2122538,
-    "Population": 119.6694663
-  },
-  {
-    "Name": "Guildhall School of Music and Drama",
-    "Year": 2017,
-    "Demand": 138.6740331,
-    "Population": 120.0440529
-  },
-  {
-    "Name": "Harper Adams University",
-    "Year": 2016,
-    "Demand": 80.4664723,
-    "Population": 120.1475712
-  },
-  {
-    "Name": "University of Bristol",
-    "Year": 2018,
-    "Demand": 123.5696517,
-    "Population": 120.1780274
-  },
-  {
-    "Name": "Unversity of Exeter",
-    "Year": 2018,
-    "Demand": 187.0897155,
-    "Population": 122.1349228
-  },
-  {
-    "Name": "St George's University, London",
+    "Name": "Brunel University London",
     "Year": 2015,
-    "Demand": 112.0448179,
-    "Population": 122.63748
+    "Demand": 108.7609512,
+    "Population": 95.33249501
   },
   {
-    "Name": "University of Surrey",
+    "Name": "Brunel University London",
+    "Year": 2016,
+    "Demand": 132.290363,
+    "Population": 94.51882536
+  },
+  {
+    "Name": "Brunel University London",
+    "Year": 2017,
+    "Demand": 139.7997497,
+    "Population": 93.63858274
+  },
+  {
+    "Name": "Brunel University London",
     "Year": 2018,
-    "Demand": 226.4822134,
-    "Population": 122.7783453
+    "Demand": 118.2728411,
+    "Population": 98.95702345
+  },
+  {
+    "Name": "Buckinghamshire New University",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "Buckinghamshire New University",
+    "Year": 2015,
+    "Demand": 94.22572178,
+    "Population": 94.7059463
+  },
+  {
+    "Name": "Buckinghamshire New University",
+    "Year": 2016,
+    "Demand": 79.00262467,
+    "Population": 88.06391999
+  },
+  {
+    "Name": "Buckinghamshire New University",
+    "Year": 2017,
+    "Demand": 70.86614173,
+    "Population": 84.78095445
+  },
+  {
+    "Name": "Buckinghamshire New University",
+    "Year": 2018,
+    "Demand": 71.65354331,
+    "Population": 73.23622133
+  },
+  {
+    "Name": "Cranfield University",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
   },
   {
     "Name": "Cranfield University",
@@ -1332,16 +162,10 @@
     "Population": 123.6803519
   },
   {
-    "Name": "Goldsmiths, University of London",
-    "Year": 2018,
-    "Demand": 100.8528785,
-    "Population": 125.3512585
-  },
-  {
-    "Name": "Queen Mary University of London",
-    "Year": 2017,
-    "Demand": 94.72182596,
-    "Population": 125.415601
+    "Name": "Cranfield University",
+    "Year": 2016,
+    "Demand": 115,
+    "Population": 114.4244868
   },
   {
     "Name": "Cranfield University",
@@ -1356,16 +180,646 @@
     "Population": 127.181085
   },
   {
-    "Name": "Aston University",
+    "Name": "Edge Hill University",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "Edge Hill University",
+    "Year": 2015,
+    "Demand": 112.4444444,
+    "Population": 96.51405718
+  },
+  {
+    "Name": "Edge Hill University",
+    "Year": 2016,
+    "Demand": 152.2222222,
+    "Population": 92.7475676
+  },
+  {
+    "Name": "Edge Hill University",
     "Year": 2017,
-    "Demand": 148.5380117,
-    "Population": 130.5532753
+    "Demand": 183.5555556,
+    "Population": 90.84940011
+  },
+  {
+    "Name": "Edge Hill University",
+    "Year": 2018,
+    "Demand": 195.1111111,
+    "Population": 85.21458843
+  },
+  {
+    "Name": "Glyndwr University",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "Glyndwr University",
+    "Year": 2015,
+    "Demand": 105.5045872,
+    "Population": 80.48780488
+  },
+  {
+    "Name": "Glyndwr University",
+    "Year": 2016,
+    "Demand": 134.8623853,
+    "Population": 79.23854848
+  },
+  {
+    "Name": "Glyndwr University",
+    "Year": 2017,
+    "Demand": 121.1009174,
+    "Population": 76.34741225
+  },
+  {
+    "Name": "Glyndwr University",
+    "Year": 2018,
+    "Demand": 161.4678899,
+    "Population": 68.63771565
+  },
+  {
+    "Name": "Goldsmiths, University of London",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "Goldsmiths, University of London",
+    "Year": 2015,
+    "Demand": 100,
+    "Population": 101.1624381
+  },
+  {
+    "Name": "Goldsmiths, University of London",
+    "Year": 2016,
+    "Demand": 88.27292111,
+    "Population": 104.8620237
+  },
+  {
+    "Name": "Goldsmiths, University of London",
+    "Year": 2017,
+    "Demand": 91.25799574,
+    "Population": 115.9102396
+  },
+  {
+    "Name": "Goldsmiths, University of London",
+    "Year": 2018,
+    "Demand": 100.8528785,
+    "Population": 125.3512585
+  },
+  {
+    "Name": "Guildhall School of Music and Drama",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "Guildhall School of Music and Drama",
+    "Year": 2015,
+    "Demand": 110.4972376,
+    "Population": 103.0837004
+  },
+  {
+    "Name": "Guildhall School of Music and Drama",
+    "Year": 2016,
+    "Demand": 138.121547,
+    "Population": 105.6167401
+  },
+  {
+    "Name": "Guildhall School of Music and Drama",
+    "Year": 2017,
+    "Demand": 138.6740331,
+    "Population": 120.0440529
+  },
+  {
+    "Name": "Guildhall School of Music and Drama",
+    "Year": 2018,
+    "Demand": 146.4088398,
+    "Population": 147.1365639
+  },
+  {
+    "Name": "Harper Adams University",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "Harper Adams University",
+    "Year": 2015,
+    "Demand": 71.13702624,
+    "Population": 107.6655052
+  },
+  {
+    "Name": "Harper Adams University",
+    "Year": 2016,
+    "Demand": 80.4664723,
+    "Population": 120.1475712
+  },
+  {
+    "Name": "Harper Adams University",
+    "Year": 2017,
+    "Demand": 68.22157434,
+    "Population": 93.81020701
+  },
+  {
+    "Name": "Harper Adams University",
+    "Year": 2018,
+    "Demand": 138.483965,
+    "Population": 110.5349457
+  },
+  {
+    "Name": "Keele University",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "Keele University",
+    "Year": 2015,
+    "Demand": 109.7946288,
+    "Population": 96.08231104
+  },
+  {
+    "Name": "Keele University",
+    "Year": 2016,
+    "Demand": 126.8562401,
+    "Population": 104.9267907
+  },
+  {
+    "Name": "Keele University",
+    "Year": 2017,
+    "Demand": 138.3886256,
+    "Population": 109.0918085
+  },
+  {
+    "Name": "Keele University",
+    "Year": 2018,
+    "Demand": 164.2969984,
+    "Population": 110.9517214
+  },
+  {
+    "Name": "Kingston University",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "Kingston University",
+    "Year": 2015,
+    "Demand": 90.07352941,
+    "Population": 95.62320718
+  },
+  {
+    "Name": "Kingston University",
+    "Year": 2016,
+    "Demand": 81.98529412,
+    "Population": 92.15323401
+  },
+  {
+    "Name": "Kingston University",
+    "Year": 2017,
+    "Demand": 68.01470588,
+    "Population": 92.03756824
+  },
+  {
+    "Name": "Kingston University",
+    "Year": 2018,
+    "Demand": 87.13235294,
+    "Population": 81.18349218
+  },
+  {
+    "Name": "Lancaster University",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "Lancaster University",
+    "Year": 2015,
+    "Demand": 105.9221658,
+    "Population": 99.94584139
+  },
+  {
+    "Name": "Lancaster University",
+    "Year": 2016,
+    "Demand": 136.7174281,
+    "Population": 103.1798839
+  },
+  {
+    "Name": "Lancaster University",
+    "Year": 2017,
+    "Demand": 171.7428088,
+    "Population": 107.2649903
+  },
+  {
+    "Name": "Lancaster University",
+    "Year": 2018,
+    "Demand": 205.2453469,
+    "Population": 112.5647969
+  },
+  {
+    "Name": "Leeds Beckett",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "Leeds Beckett",
+    "Year": 2015,
+    "Demand": 160,
+    "Population": 100.652318
+  },
+  {
+    "Name": "Leeds Beckett",
+    "Year": 2016,
+    "Demand": 152.4137931,
+    "Population": 97.91746608
+  },
+  {
+    "Name": "Leeds Beckett",
+    "Year": 2017,
+    "Demand": 153.4482759,
+    "Population": 95.64307392
+  },
+  {
+    "Name": "Leeds Beckett",
+    "Year": 2018,
+    "Demand": 131.7241379,
+    "Population": 90.4524366
+  },
+  {
+    "Name": "Loughborough University",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "Loughborough University",
+    "Year": 2015,
+    "Demand": 109.752322,
+    "Population": 98.3369959
+  },
+  {
+    "Name": "Loughborough University",
+    "Year": 2016,
+    "Demand": 118.8854489,
+    "Population": 104.9593158
+  },
+  {
+    "Name": "Loughborough University",
+    "Year": 2017,
+    "Demand": 122.9102167,
+    "Population": 106.8895884
+  },
+  {
+    "Name": "Loughborough University",
+    "Year": 2018,
+    "Demand": 126.9349845,
+    "Population": 105.7611213
+  },
+  {
+    "Name": "Newcastle University",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "Newcastle University",
+    "Year": 2015,
+    "Demand": 129.6725784,
+    "Population": 103.7269451
+  },
+  {
+    "Name": "Newcastle University",
+    "Year": 2016,
+    "Demand": 166.9849932,
+    "Population": 107.50477
+  },
+  {
+    "Name": "Newcastle University",
+    "Year": 2017,
+    "Demand": 157.5716235,
+    "Population": 113.008268
+  },
+  {
+    "Name": "Newcastle University",
+    "Year": 2018,
+    "Demand": 157.7762619,
+    "Population": 117.1592114
+  },
+  {
+    "Name": "Queen Margaret University",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "Queen Margaret University",
+    "Year": 2015,
+    "Demand": 107.7669903,
+    "Population": 99.62273049
+  },
+  {
+    "Name": "Queen Margaret University",
+    "Year": 2016,
+    "Demand": 96.11650485,
+    "Population": 98.23154916
+  },
+  {
+    "Name": "Queen Margaret University",
+    "Year": 2017,
+    "Demand": 94.17475728,
+    "Population": 99.5755718
+  },
+  {
+    "Name": "Queen Margaret University",
+    "Year": 2018,
+    "Demand": 86.40776699,
+    "Population": 100.4008489
+  },
+  {
+    "Name": "Queen Mary University of London",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "Queen Mary University of London",
+    "Year": 2015,
+    "Demand": 117.403709,
+    "Population": 105.6265985
+  },
+  {
+    "Name": "Queen Mary University of London",
+    "Year": 2016,
+    "Demand": 127.9600571,
+    "Population": 112.8889599
+  },
+  {
+    "Name": "Queen Mary University of London",
+    "Year": 2017,
+    "Demand": 94.72182596,
+    "Population": 125.415601
+  },
+  {
+    "Name": "Queen Mary University of London",
+    "Year": 2018,
+    "Demand": 111.2696148,
+    "Population": 137.4733589
+  },
+  {
+    "Name": "Royal Academy of Music",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "Royal Academy of Music",
+    "Year": 2015,
+    "Demand": 140.3508772,
+    "Population": 112.7345845
+  },
+  {
+    "Name": "Royal Academy of Music",
+    "Year": 2016,
+    "Demand": 122.8070175,
+    "Population": 110.8579088
+  },
+  {
+    "Name": "Royal Academy of Music",
+    "Year": 2017,
+    "Demand": 163.1578947,
+    "Population": 107.2386059
+  },
+  {
+    "Name": "Royal Academy of Music",
+    "Year": 2018,
+    "Demand": 191.2280702,
+    "Population": 109.919571
+  },
+  {
+    "Name": "Royal Central School of Speech and Drama",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "Royal Central School of Speech and Drama",
+    "Year": 2015,
+    "Demand": 188.4057971,
+    "Population": 101.0152284
+  },
+  {
+    "Name": "Royal Central School of Speech and Drama",
+    "Year": 2016,
+    "Demand": 237.6811594,
+    "Population": 106.0913706
+  },
+  {
+    "Name": "Royal Central School of Speech and Drama",
+    "Year": 2017,
+    "Demand": 205.7971014,
+    "Population": 111.6751269
+  },
+  {
+    "Name": "Royal Central School of Speech and Drama",
+    "Year": 2018,
+    "Demand": 242.0289855,
+    "Population": 111.1675127
+  },
+  {
+    "Name": "Royal College of Art",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "Royal College of Art",
+    "Year": 2015,
+    "Demand": 116.1016949,
+    "Population": 100.4172462
+  },
+  {
+    "Name": "Royal College of Art",
+    "Year": 2016,
+    "Demand": 131.3559322,
+    "Population": 112.3783032
   },
   {
     "Name": "Royal College of Art",
     "Year": 2017,
     "Demand": 101.6949153,
     "Population": 132.4061196
+  },
+  {
+    "Name": "Royal College of Art",
+    "Year": 2018,
+    "Demand": 106.779661,
+    "Population": 146.3838665
+  },
+  {
+    "Name": "Royal Holloway",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "Royal Holloway",
+    "Year": 2015,
+    "Demand": 105.6701031,
+    "Population": 103.0907985
+  },
+  {
+    "Name": "Royal Holloway",
+    "Year": 2016,
+    "Demand": 114.9484536,
+    "Population": 104.1447102
+  },
+  {
+    "Name": "Royal Holloway",
+    "Year": 2017,
+    "Demand": 127.7061856,
+    "Population": 107.4280503
+  },
+  {
+    "Name": "Royal Holloway",
+    "Year": 2018,
+    "Demand": 126.1597938,
+    "Population": 110.6708553
+  },
+  {
+    "Name": "Sheffield Hallam University",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "Sheffield Hallam University",
+    "Year": 2015,
+    "Demand": 107.1574642,
+    "Population": 95.25967552
+  },
+  {
+    "Name": "Sheffield Hallam University",
+    "Year": 2016,
+    "Demand": 99.48875256,
+    "Population": 95.11767727
+  },
+  {
+    "Name": "Sheffield Hallam University",
+    "Year": 2017,
+    "Demand": 121.8813906,
+    "Population": 93.10553189
+  },
+  {
+    "Name": "Sheffield Hallam University",
+    "Year": 2018,
+    "Demand": 118.5071575,
+    "Population": 98.53469893
+  },
+  {
+    "Name": "St George's University, London",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "St George's University, London",
+    "Year": 2015,
+    "Demand": 112.0448179,
+    "Population": 122.63748
+  },
+  {
+    "Name": "St George's University, London",
+    "Year": 2016,
+    "Demand": 116.8067227,
+    "Population": 113.0138815
+  },
+  {
+    "Name": "St George's University, London",
+    "Year": 2017,
+    "Demand": 129.9719888,
+    "Population": 108.9161773
+  },
+  {
+    "Name": "St George's University, London",
+    "Year": 2018,
+    "Demand": 133.0532213,
+    "Population": 88.76134544
+  },
+  {
+    "Name": "Staffordshire University",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "Staffordshire University",
+    "Year": 2015,
+    "Demand": 112.5748503,
+    "Population": 91.3017815
+  },
+  {
+    "Name": "Staffordshire University",
+    "Year": 2016,
+    "Demand": 111.9760479,
+    "Population": 89.2519854
+  },
+  {
+    "Name": "Staffordshire University",
+    "Year": 2017,
+    "Demand": 123.752495,
+    "Population": 84.56750376
+  },
+  {
+    "Name": "Staffordshire University",
+    "Year": 2018,
+    "Demand": 116.9660679,
+    "Population": 80.88109036
+  },
+  {
+    "Name": "Ulster University",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "Ulster University",
+    "Year": 2015,
+    "Demand": 180.4393305,
+    "Population": 100.8375397
+  },
+  {
+    "Name": "Ulster University",
+    "Year": 2016,
+    "Demand": 116.3179916,
+    "Population": 93.69601795
+  },
+  {
+    "Name": "Ulster University",
+    "Year": 2017,
+    "Demand": 135.6694561,
+    "Population": 90.70106562
+  },
+  {
+    "Name": "Ulster University",
+    "Year": 2018,
+    "Demand": 174.4769874,
+    "Population": 89.69153113
+  },
+  {
+    "Name": "University College London",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "University College London",
+    "Year": 2015,
+    "Demand": 102.9874214,
+    "Population": 105.862989
   },
   {
     "Name": "University College London",
@@ -1380,33 +834,579 @@
     "Population": 136.7788212
   },
   {
-    "Name": "Aston University",
-    "Year": 2018,
-    "Demand": 176.0233918,
-    "Population": 137.0546708
-  },
-  {
-    "Name": "Queen Mary University of London",
-    "Year": 2018,
-    "Demand": 111.2696148,
-    "Population": 137.4733589
-  },
-  {
     "Name": "University College London",
     "Year": 2018,
     "Demand": 111.2421384,
     "Population": 143.9377664
   },
   {
-    "Name": "Royal College of Art",
-    "Year": 2018,
-    "Demand": 106.779661,
-    "Population": 146.3838665
+    "Name": "University of Aberdeen",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
   },
   {
-    "Name": "Guildhall School of Music and Drama",
+    "Name": "University of Aberdeen",
+    "Year": 2015,
+    "Demand": 103.6277603,
+    "Population": 99.4828907
+  },
+  {
+    "Name": "University of Aberdeen",
+    "Year": 2016,
+    "Demand": 119.5583596,
+    "Population": 100.2234423
+  },
+  {
+    "Name": "University of Aberdeen",
+    "Year": 2017,
+    "Demand": 129.3375394,
+    "Population": 102.4897855
+  },
+  {
+    "Name": "University of Aberdeen",
     "Year": 2018,
-    "Demand": 146.4088398,
-    "Population": 147.1365639
+    "Demand": 148.7381703,
+    "Population": 108.0822268
+  },
+  {
+    "Name": "University of Bedfordshire",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "University of Bedfordshire",
+    "Year": 2015,
+    "Demand": 114.7208122,
+    "Population": 87.13378406
+  },
+  {
+    "Name": "University of Bedfordshire",
+    "Year": 2016,
+    "Demand": 112.1827411,
+    "Population": 78.81581643
+  },
+  {
+    "Name": "University of Bedfordshire",
+    "Year": 2017,
+    "Demand": 119.2893401,
+    "Population": 75.69657857
+  },
+  {
+    "Name": "University of Bedfordshire",
+    "Year": 2018,
+    "Demand": 101.5228426,
+    "Population": 72.27514854
+  },
+  {
+    "Name": "University of Bristol",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "University of Bristol",
+    "Year": 2015,
+    "Demand": 101.8656716,
+    "Population": 105.2694212
+  },
+  {
+    "Name": "University of Bristol",
+    "Year": 2016,
+    "Demand": 108.9552239,
+    "Population": 106.3071211
+  },
+  {
+    "Name": "University of Bristol",
+    "Year": 2017,
+    "Demand": 125.8084577,
+    "Population": 114.4706778
+  },
+  {
+    "Name": "University of Bristol",
+    "Year": 2018,
+    "Demand": 123.5696517,
+    "Population": 120.1780274
+  },
+  {
+    "Name": "University of Chichester",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "University of Chichester",
+    "Year": 2015,
+    "Demand": 108.3333333,
+    "Population": 96.6282165
+  },
+  {
+    "Name": "University of Chichester",
+    "Year": 2016,
+    "Demand": 135.6060606,
+    "Population": 97.95918367
+  },
+  {
+    "Name": "University of Chichester",
+    "Year": 2017,
+    "Demand": 142.4242424,
+    "Population": 98.31410825
+  },
+  {
+    "Name": "University of Chichester",
+    "Year": 2018,
+    "Demand": 155.3030303,
+    "Population": 97.16060337
+  },
+  {
+    "Name": "University of Derby",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "University of Derby",
+    "Year": 2015,
+    "Demand": 115.1515152,
+    "Population": 110.9015401
+  },
+  {
+    "Name": "University of Derby",
+    "Year": 2016,
+    "Demand": 136.026936,
+    "Population": 96.85758782
+  },
+  {
+    "Name": "University of Derby",
+    "Year": 2017,
+    "Demand": 163.2996633,
+    "Population": 93.44177193
+  },
+  {
+    "Name": "University of Derby",
+    "Year": 2018,
+    "Demand": 202.5252525,
+    "Population": 93.22028033
+  },
+  {
+    "Name": "University of Dundee",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "University of Dundee",
+    "Year": 2015,
+    "Demand": 111.4420063,
+    "Population": 98.26186885
+  },
+  {
+    "Name": "University of Dundee",
+    "Year": 2016,
+    "Demand": 111.5987461,
+    "Population": 96.06406665
+  },
+  {
+    "Name": "University of Dundee",
+    "Year": 2017,
+    "Demand": 129.153605,
+    "Population": 101.79559
+  },
+  {
+    "Name": "University of Dundee",
+    "Year": 2018,
+    "Demand": 145.4545455,
+    "Population": 106.5574948
+  },
+  {
+    "Name": "University of East Anglia",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "University of East Anglia",
+    "Year": 2015,
+    "Demand": 78.00237812,
+    "Population": 98.22152184
+  },
+  {
+    "Name": "University of East Anglia",
+    "Year": 2016,
+    "Demand": 54.8156956,
+    "Population": 101.0074291
+  },
+  {
+    "Name": "University of East Anglia",
+    "Year": 2017,
+    "Demand": 46.73008323,
+    "Population": 107.7949122
+  },
+  {
+    "Name": "University of East Anglia",
+    "Year": 2018,
+    "Demand": 51.843044,
+    "Population": 112.73638
+  },
+  {
+    "Name": "University of Essex",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "University of Essex",
+    "Year": 2015,
+    "Demand": 90.14373717,
+    "Population": 104.9424256
+  },
+  {
+    "Name": "University of Essex",
+    "Year": 2016,
+    "Demand": 83.9835729,
+    "Population": 105.2938537
+  },
+  {
+    "Name": "University of Essex",
+    "Year": 2017,
+    "Demand": 68.78850103,
+    "Population": 113.0701361
+  },
+  {
+    "Name": "University of Essex",
+    "Year": 2018,
+    "Demand": 62.21765914,
+    "Population": 112.4644833
+  },
+  {
+    "Name": "University of Glasgow",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "University of Glasgow",
+    "Year": 2015,
+    "Demand": 112.8856624,
+    "Population": 101.7878329
+  },
+  {
+    "Name": "University of Glasgow",
+    "Year": 2016,
+    "Demand": 126.6182698,
+    "Population": 105.1589412
+  },
+  {
+    "Name": "University of Glasgow",
+    "Year": 2017,
+    "Demand": 140.9558379,
+    "Population": 108.9555292
+  },
+  {
+    "Name": "University of Glasgow",
+    "Year": 2018,
+    "Demand": 148.6388385,
+    "Population": 113.8771837
+  },
+  {
+    "Name": "University of Leicester",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "University of Leicester",
+    "Year": 2015,
+    "Demand": 96.27329193,
+    "Population": 96.06693364
+  },
+  {
+    "Name": "University of Leicester",
+    "Year": 2016,
+    "Demand": 148.0745342,
+    "Population": 91.4187643
+  },
+  {
+    "Name": "University of Leicester",
+    "Year": 2017,
+    "Demand": 183.6024845,
+    "Population": 96.77250191
+  },
+  {
+    "Name": "University of Leicester",
+    "Year": 2018,
+    "Demand": 204.5962733,
+    "Population": 91.29481312
+  },
+  {
+    "Name": "University of Sheffield",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "University of Sheffield",
+    "Year": 2015,
+    "Demand": 133.1369661,
+    "Population": 102.4625935
+  },
+  {
+    "Name": "University of Sheffield",
+    "Year": 2016,
+    "Demand": 131.3696613,
+    "Population": 106.1019327
+  },
+  {
+    "Name": "University of Sheffield",
+    "Year": 2017,
+    "Demand": 145.3608247,
+    "Population": 108.8957294
+  },
+  {
+    "Name": "University of Sheffield",
+    "Year": 2018,
+    "Demand": 205.5964654,
+    "Population": 112.4064838
+  },
+  {
+    "Name": "University of St Andrews",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "University of St Andrews",
+    "Year": 2015,
+    "Demand": 95.52058111,
+    "Population": 104.4020356
+  },
+  {
+    "Name": "University of St Andrews",
+    "Year": 2016,
+    "Demand": 176.6343826,
+    "Population": 107.1246819
+  },
+  {
+    "Name": "University of St Andrews",
+    "Year": 2017,
+    "Demand": 158.2324455,
+    "Population": 111.7811705
+  },
+  {
+    "Name": "University of St Andrews",
+    "Year": 2018,
+    "Demand": 177.1186441,
+    "Population": 116.2849873
+  },
+  {
+    "Name": "University of Strathclyde",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "University of Strathclyde",
+    "Year": 2015,
+    "Demand": 129.3139293,
+    "Population": 104.0920315
+  },
+  {
+    "Name": "University of Strathclyde",
+    "Year": 2016,
+    "Demand": 117.8794179,
+    "Population": 112.7072473
+  },
+  {
+    "Name": "University of Strathclyde",
+    "Year": 2017,
+    "Demand": 135.5509356,
+    "Population": 111.5862501
+  },
+  {
+    "Name": "University of Strathclyde",
+    "Year": 2018,
+    "Demand": 101.4553015,
+    "Population": 109.3168189
+  },
+  {
+    "Name": "University of Surrey",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "University of Surrey",
+    "Year": 2015,
+    "Demand": 125.9552042,
+    "Population": 102.830877
+  },
+  {
+    "Name": "University of Surrey",
+    "Year": 2016,
+    "Demand": 145.1910408,
+    "Population": 111.4840216
+  },
+  {
+    "Name": "University of Surrey",
+    "Year": 2017,
+    "Demand": 193.9393939,
+    "Population": 114.6869984
+  },
+  {
+    "Name": "University of Surrey",
+    "Year": 2018,
+    "Demand": 226.4822134,
+    "Population": 122.7783453
+  },
+  {
+    "Name": "University of the Arts London",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "University of the Arts London",
+    "Year": 2015,
+    "Demand": 175.5102041,
+    "Population": 101.6251175
+  },
+  {
+    "Name": "University of the Arts London",
+    "Year": 2016,
+    "Demand": 189.1156463,
+    "Population": 101.1994915
+  },
+  {
+    "Name": "University of the Arts London",
+    "Year": 2017,
+    "Demand": 215.3061224,
+    "Population": 100.8180863
+  },
+  {
+    "Name": "University of the Arts London",
+    "Year": 2018,
+    "Demand": 281.377551,
+    "Population": 105.0024874
+  },
+  {
+    "Name": "University of York",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "University of York",
+    "Year": 2015,
+    "Demand": 110.951526,
+    "Population": 100.7090012
+  },
+  {
+    "Name": "University of York",
+    "Year": 2016,
+    "Demand": 108.438061,
+    "Population": 101.0480888
+  },
+  {
+    "Name": "University of York",
+    "Year": 2017,
+    "Demand": 100.8378217,
+    "Population": 107.7681874
+  },
+  {
+    "Name": "University of York",
+    "Year": 2018,
+    "Demand": 130.9395572,
+    "Population": 111.6522811
+  },
+  {
+    "Name": "Universtiy of Westminster",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "Universtiy of Westminster",
+    "Year": 2015,
+    "Demand": 90.55851064,
+    "Population": 101.3118812
+  },
+  {
+    "Name": "Universtiy of Westminster",
+    "Year": 2016,
+    "Demand": 101.5957447,
+    "Population": 99.97524752
+  },
+  {
+    "Name": "Universtiy of Westminster",
+    "Year": 2017,
+    "Demand": 100.7978723,
+    "Population": 97.27722772
+  },
+  {
+    "Name": "Universtiy of Westminster",
+    "Year": 2018,
+    "Demand": 114.2287234,
+    "Population": 96.66831683
+  },
+  {
+    "Name": "Unversity of Exeter",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "Unversity of Exeter",
+    "Year": 2015,
+    "Demand": 108.4609774,
+    "Population": 106.1230019
+  },
+  {
+    "Name": "Unversity of Exeter",
+    "Year": 2016,
+    "Demand": 127.7169949,
+    "Population": 113.4922785
+  },
+  {
+    "Name": "Unversity of Exeter",
+    "Year": 2017,
+    "Demand": 179.2122538,
+    "Population": 119.6694663
+  },
+  {
+    "Name": "Unversity of Exeter",
+    "Year": 2018,
+    "Demand": 187.0897155,
+    "Population": 122.1349228
+  },
+  {
+    "Name": "York St John University",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100
+  },
+  {
+    "Name": "York St John University",
+    "Year": 2015,
+    "Demand": 121.9665272,
+    "Population": 102.6172622
+  },
+  {
+    "Name": "York St John University",
+    "Year": 2016,
+    "Demand": 135.9832636,
+    "Population": 94.23614174
+  },
+  {
+    "Name": "York St John University",
+    "Year": 2017,
+    "Demand": 124.8953975,
+    "Population": 89.19276577
+  },
+  {
+    "Name": "York St John University",
+    "Year": 2018,
+    "Demand": 124.2677824,
+    "Population": 93.29510366
   }
 ]
