@@ -1,1412 +1,1647 @@
 [
   {
-    "Name": "University of Aberdeen",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "University of Aberdeen",
-    "Year": 2015,
-    "Demand": 103.6277603,
-    "Population": 99.4828907
-  },
-  {
-    "Name": "University of Aberdeen",
-    "Year": 2016,
-    "Demand": 119.5583596,
-    "Population": 100.2234423
-  },
-  {
-    "Name": "University of Aberdeen",
-    "Year": 2017,
-    "Demand": 129.3375394,
-    "Population": 102.4897855
-  },
-  {
-    "Name": "University of Aberdeen",
-    "Year": 2018,
-    "Demand": 148.7381703,
-    "Population": 108.0822268
-  },
-  {
-    "Name": "Abertay",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Abertay",
-    "Year": 2015,
-    "Demand": 105.0898204,
-    "Population": 91.02180419
-  },
-  {
-    "Name": "Abertay",
-    "Year": 2016,
-    "Demand": 106.5868263,
-    "Population": 87.49465584
-  },
-  {
-    "Name": "Abertay",
-    "Year": 2017,
-    "Demand": 110.4790419,
-    "Population": 84.07439077
-  },
-  {
-    "Name": "Abertay",
-    "Year": 2018,
-    "Demand": 119.760479,
-    "Population": 88.47798204
-  },
-  {
-    "Name": "Aston",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Aston",
-    "Year": 2015,
-    "Demand": 108.1871345,
-    "Population": 108.5618125
-  },
-  {
-    "Name": "Aston",
-    "Year": 2016,
-    "Demand": 113.4502924,
-    "Population": 118.3385323
-  },
-  {
-    "Name": "Aston",
-    "Year": 2017,
-    "Demand": 148.5380117,
-    "Population": 130.5532753
-  },
-  {
-    "Name": "Aston",
-    "Year": 2018,
-    "Demand": 176.0233918,
-    "Population": 137.0546708
-  },
-  {
-    "Name": "University of Bedfordshire",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "University of Bedfordshire",
-    "Year": 2015,
-    "Demand": 114.7208122,
-    "Population": 87.13378406
-  },
-  {
-    "Name": "University of Bedfordshire",
-    "Year": 2016,
-    "Demand": 112.1827411,
-    "Population": 78.81581643
-  },
-  {
-    "Name": "University of Bedfordshire",
-    "Year": 2017,
-    "Demand": 119.2893401,
-    "Population": 75.69657857
-  },
-  {
-    "Name": "University of Bedfordshire",
-    "Year": 2018,
-    "Demand": 101.5228426,
-    "Population": 72.27514854
-  },
-  {
-    "Name": "Bournemouth",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Bournemouth",
-    "Year": 2015,
-    "Demand": 100.9584665,
-    "Population": 104.3584838
-  },
-  {
-    "Name": "Bournemouth",
-    "Year": 2016,
-    "Demand": 109.7444089,
-    "Population": 110.0083702
-  },
-  {
-    "Name": "Bournemouth",
-    "Year": 2017,
-    "Demand": 143.4504792,
-    "Population": 115.2277891
-  },
-  {
-    "Name": "Bournemouth",
-    "Year": 2018,
-    "Demand": 140.5750799,
-    "Population": 108.9441588
-  },
-  {
-    "Name": "University of Bristol",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "University of Bristol",
-    "Year": 2015,
-    "Demand": 101.8656716,
-    "Population": 105.2694212
-  },
-  {
-    "Name": "University of Bristol",
-    "Year": 2016,
-    "Demand": 108.9552239,
-    "Population": 106.3071211
-  },
-  {
-    "Name": "University of Bristol",
-    "Year": 2017,
-    "Demand": 125.8084577,
-    "Population": 114.4706778
-  },
-  {
-    "Name": "University of Bristol",
-    "Year": 2018,
-    "Demand": 123.5696517,
-    "Population": 120.1780274
-  },
-  {
-    "Name": "Brunel",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Brunel",
-    "Year": 2015,
-    "Demand": 108.7609512,
-    "Population": 95.33249501
-  },
-  {
-    "Name": "Brunel",
-    "Year": 2016,
-    "Demand": 132.290363,
-    "Population": 94.51882536
-  },
-  {
-    "Name": "Brunel",
-    "Year": 2017,
-    "Demand": 139.7997497,
-    "Population": 93.63858274
-  },
-  {
-    "Name": "Brunel",
-    "Year": 2018,
-    "Demand": 118.2728411,
-    "Population": 98.95702345
-  },
-  {
-    "Name": "Buckinghamshire New",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Buckinghamshire New",
-    "Year": 2015,
-    "Demand": 94.22572178,
-    "Population": 94.7059463
-  },
-  {
-    "Name": "Buckinghamshire New",
-    "Year": 2016,
-    "Demand": 79.00262467,
-    "Population": 88.06391999
-  },
-  {
-    "Name": "Buckinghamshire New",
-    "Year": 2017,
-    "Demand": 70.86614173,
-    "Population": 84.78095445
-  },
-  {
-    "Name": "Buckinghamshire New",
-    "Year": 2018,
-    "Demand": 71.65354331,
-    "Population": 73.23622133
-  },
-  {
-    "Name": "University of Chichester",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "University of Chichester",
-    "Year": 2015,
-    "Demand": 108.3333333,
-    "Population": 96.6282165
-  },
-  {
-    "Name": "University of Chichester",
-    "Year": 2016,
-    "Demand": 135.6060606,
-    "Population": 97.95918367
-  },
-  {
-    "Name": "University of Chichester",
-    "Year": 2017,
-    "Demand": 142.4242424,
-    "Population": 98.31410825
-  },
-  {
-    "Name": "University of Chichester",
-    "Year": 2018,
-    "Demand": 155.3030303,
-    "Population": 97.16060337
-  },
-  {
-    "Name": "Cranfield",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Cranfield",
-    "Year": 2015,
-    "Demand": 117,
-    "Population": 123.6803519
-  },
-  {
-    "Name": "Cranfield",
-    "Year": 2016,
-    "Demand": 115,
-    "Population": 114.4244868
-  },
-  {
-    "Name": "Cranfield",
-    "Year": 2017,
-    "Demand": 104,
-    "Population": 125.6781525
-  },
-  {
-    "Name": "Cranfield",
-    "Year": 2018,
-    "Demand": 107,
-    "Population": 127.181085
-  },
-  {
-    "Name": "University of Derby",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "University of Derby",
-    "Year": 2015,
-    "Demand": 115.1515152,
-    "Population": 110.9015401
-  },
-  {
-    "Name": "University of Derby",
-    "Year": 2016,
-    "Demand": 136.026936,
-    "Population": 96.85758782
-  },
-  {
-    "Name": "University of Derby",
-    "Year": 2017,
-    "Demand": 163.2996633,
-    "Population": 93.44177193
-  },
-  {
-    "Name": "University of Derby",
-    "Year": 2018,
-    "Demand": 202.5252525,
-    "Population": 93.22028033
-  },
-  {
-    "Name": "University of Dundee",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "University of Dundee",
-    "Year": 2015,
-    "Demand": 111.4420063,
-    "Population": 98.26186885
-  },
-  {
-    "Name": "University of Dundee",
-    "Year": 2016,
-    "Demand": 111.5987461,
-    "Population": 96.06406665
-  },
-  {
-    "Name": "University of Dundee",
-    "Year": 2017,
-    "Demand": 129.153605,
-    "Population": 101.79559
-  },
-  {
-    "Name": "University of Dundee",
-    "Year": 2018,
-    "Demand": 145.4545455,
-    "Population": 106.5574948
-  },
-  {
-    "Name": "University of East Anglia",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "University of East Anglia",
-    "Year": 2015,
-    "Demand": 78.00237812,
-    "Population": 98.22152184
-  },
-  {
-    "Name": "University of East Anglia",
-    "Year": 2016,
-    "Demand": 54.8156956,
-    "Population": 101.0074291
-  },
-  {
-    "Name": "University of East Anglia",
-    "Year": 2017,
-    "Demand": 46.73008323,
-    "Population": 107.7949122
-  },
-  {
-    "Name": "University of East Anglia",
-    "Year": 2018,
-    "Demand": 51.843044,
-    "Population": 112.73638
-  },
-  {
-    "Name": "Edge Hill",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Edge Hill",
-    "Year": 2015,
-    "Demand": 112.4444444,
-    "Population": 96.51405718
-  },
-  {
-    "Name": "Edge Hill",
-    "Year": 2016,
-    "Demand": 152.2222222,
-    "Population": 92.7475676
-  },
-  {
-    "Name": "Edge Hill",
-    "Year": 2017,
-    "Demand": 183.5555556,
-    "Population": 90.84940011
-  },
-  {
-    "Name": "Edge Hill",
-    "Year": 2018,
-    "Demand": 195.1111111,
-    "Population": 85.21458843
-  },
-  {
-    "Name": "University of Essex",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "University of Essex",
-    "Year": 2015,
-    "Demand": 90.14373717,
-    "Population": 104.9424256
-  },
-  {
-    "Name": "University of Essex",
-    "Year": 2016,
-    "Demand": 83.9835729,
-    "Population": 105.2938537
-  },
-  {
-    "Name": "University of Essex",
-    "Year": 2017,
-    "Demand": 68.78850103,
-    "Population": 113.0701361
-  },
-  {
-    "Name": "University of Essex",
-    "Year": 2018,
-    "Demand": 62.21765914,
-    "Population": 112.4644833
-  },
-  {
-    "Name": "Unversity of Exeter",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Unversity of Exeter",
-    "Year": 2015,
-    "Demand": 108.4609774,
-    "Population": 106.1230019
-  },
-  {
-    "Name": "Unversity of Exeter",
-    "Year": 2016,
-    "Demand": 127.7169949,
-    "Population": 113.4922785
-  },
-  {
-    "Name": "Unversity of Exeter",
-    "Year": 2017,
-    "Demand": 179.2122538,
-    "Population": 119.6694663
-  },
-  {
-    "Name": "Unversity of Exeter",
-    "Year": 2018,
-    "Demand": 187.0897155,
-    "Population": 122.1349228
-  },
-  {
-    "Name": "University of Glasgow",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "University of Glasgow",
-    "Year": 2015,
-    "Demand": 112.8856624,
-    "Population": 101.7878329
-  },
-  {
-    "Name": "University of Glasgow",
-    "Year": 2016,
-    "Demand": 126.6182698,
-    "Population": 105.1589412
-  },
-  {
-    "Name": "University of Glasgow",
-    "Year": 2017,
-    "Demand": 140.9558379,
-    "Population": 108.9555292
-  },
-  {
-    "Name": "University of Glasgow",
-    "Year": 2018,
-    "Demand": 148.6388385,
-    "Population": 113.8771837
-  },
-  {
-    "Name": "Glyndwr",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Glyndwr",
-    "Year": 2015,
-    "Demand": 105.5045872,
-    "Population": 80.48780488
-  },
-  {
-    "Name": "Glyndwr",
-    "Year": 2016,
-    "Demand": 134.8623853,
-    "Population": 79.23854848
-  },
-  {
-    "Name": "Glyndwr",
-    "Year": 2017,
-    "Demand": 121.1009174,
-    "Population": 76.34741225
-  },
-  {
-    "Name": "Glyndwr",
-    "Year": 2018,
-    "Demand": 161.4678899,
-    "Population": 68.63771565
-  },
-  {
-    "Name": "Goldsmiths, London",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Goldsmiths, London",
-    "Year": 2015,
-    "Demand": 100,
-    "Population": 101.1624381
-  },
-  {
-    "Name": "Goldsmiths, London",
-    "Year": 2016,
-    "Demand": 88.27292111,
-    "Population": 104.8620237
-  },
-  {
-    "Name": "Goldsmiths, London",
-    "Year": 2017,
-    "Demand": 91.25799574,
-    "Population": 115.9102396
-  },
-  {
-    "Name": "Goldsmiths, London",
-    "Year": 2018,
-    "Demand": 100.8528785,
-    "Population": 125.3512585
-  },
-  {
-    "Name": "Guildhall School",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Guildhall School",
-    "Year": 2015,
-    "Demand": 110.4972376,
-    "Population": 103.0837004
-  },
-  {
-    "Name": "Guildhall School",
-    "Year": 2016,
-    "Demand": 138.121547,
-    "Population": 105.6167401
-  },
-  {
-    "Name": "Guildhall School",
-    "Year": 2017,
-    "Demand": 138.6740331,
-    "Population": 120.0440529
-  },
-  {
-    "Name": "Guildhall School",
-    "Year": 2018,
-    "Demand": 146.4088398,
-    "Population": 147.1365639
-  },
-  {
-    "Name": "Harper Adams",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Harper Adams",
-    "Year": 2015,
-    "Demand": 71.13702624,
-    "Population": 107.6655052
-  },
-  {
-    "Name": "Harper Adams",
-    "Year": 2016,
-    "Demand": 80.4664723,
-    "Population": 120.1475712
-  },
-  {
-    "Name": "Harper Adams",
-    "Year": 2017,
-    "Demand": 68.22157434,
-    "Population": 93.81020701
-  },
-  {
-    "Name": "Harper Adams",
-    "Year": 2018,
-    "Demand": 138.483965,
-    "Population": 110.5349457
-  },
-  {
-    "Name": "Keele",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Keele",
-    "Year": 2015,
-    "Demand": 109.7946288,
-    "Population": 96.08231104
-  },
-  {
-    "Name": "Keele",
-    "Year": 2016,
-    "Demand": 126.8562401,
-    "Population": 104.9267907
-  },
-  {
-    "Name": "Keele",
-    "Year": 2017,
-    "Demand": 138.3886256,
-    "Population": 109.0918085
-  },
-  {
-    "Name": "Keele",
-    "Year": 2018,
-    "Demand": 164.2969984,
-    "Population": 110.9517214
-  },
-  {
-    "Name": "Kingston",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Kingston",
-    "Year": 2015,
-    "Demand": 90.07352941,
-    "Population": 95.62320718
-  },
-  {
-    "Name": "Kingston",
-    "Year": 2016,
-    "Demand": 81.98529412,
-    "Population": 92.15323401
-  },
-  {
-    "Name": "Kingston",
-    "Year": 2017,
-    "Demand": 68.01470588,
-    "Population": 92.03756824
-  },
-  {
-    "Name": "Kingston",
-    "Year": 2018,
-    "Demand": 87.13235294,
-    "Population": 81.18349218
-  },
-  {
-    "Name": "Lancaster",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Lancaster",
-    "Year": 2015,
-    "Demand": 105.9221658,
-    "Population": 99.94584139
-  },
-  {
-    "Name": "Lancaster",
-    "Year": 2016,
-    "Demand": 136.7174281,
-    "Population": 103.1798839
-  },
-  {
-    "Name": "Lancaster",
-    "Year": 2017,
-    "Demand": 171.7428088,
-    "Population": 107.2649903
-  },
-  {
-    "Name": "Lancaster",
-    "Year": 2018,
-    "Demand": 205.2453469,
-    "Population": 112.5647969
-  },
-  {
-    "Name": "Leeds Beckett",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Leeds Beckett",
-    "Year": 2015,
-    "Demand": 160,
-    "Population": 100.652318
-  },
-  {
-    "Name": "Leeds Beckett",
-    "Year": 2016,
-    "Demand": 152.4137931,
-    "Population": 97.91746608
-  },
-  {
-    "Name": "Leeds Beckett",
-    "Year": 2017,
-    "Demand": 153.4482759,
-    "Population": 95.64307392
-  },
-  {
-    "Name": "Leeds Beckett",
-    "Year": 2018,
-    "Demand": 131.7241379,
-    "Population": 90.4524366
-  },
-  {
-    "Name": "University of Leicester",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "University of Leicester",
-    "Year": 2015,
-    "Demand": 96.27329193,
-    "Population": 96.06693364
-  },
-  {
-    "Name": "University of Leicester",
-    "Year": 2016,
-    "Demand": 148.0745342,
-    "Population": 91.4187643
-  },
-  {
-    "Name": "University of Leicester",
-    "Year": 2017,
-    "Demand": 183.6024845,
-    "Population": 96.77250191
-  },
-  {
-    "Name": "University of Leicester",
-    "Year": 2018,
-    "Demand": 204.5962733,
-    "Population": 91.29481312
-  },
-  {
-    "Name": "Loughborough",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Loughborough",
-    "Year": 2015,
-    "Demand": 109.752322,
-    "Population": 98.3369959
-  },
-  {
-    "Name": "Loughborough",
-    "Year": 2016,
-    "Demand": 118.8854489,
-    "Population": 104.9593158
-  },
-  {
-    "Name": "Loughborough",
-    "Year": 2017,
-    "Demand": 122.9102167,
-    "Population": 106.8895884
-  },
-  {
-    "Name": "Loughborough",
-    "Year": 2018,
-    "Demand": 126.9349845,
-    "Population": 105.7611213
-  },
-  {
-    "Name": "Newcastle",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Newcastle",
-    "Year": 2015,
-    "Demand": 129.6725784,
-    "Population": 103.7269451
-  },
-  {
-    "Name": "Newcastle",
-    "Year": 2016,
-    "Demand": 166.9849932,
-    "Population": 107.50477
-  },
-  {
-    "Name": "Newcastle",
-    "Year": 2017,
-    "Demand": 157.5716235,
-    "Population": 113.008268
-  },
-  {
-    "Name": "Newcastle",
-    "Year": 2018,
-    "Demand": 157.7762619,
-    "Population": 117.1592114
-  },
-  {
-    "Name": "Queen Margaret",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Queen Margaret",
-    "Year": 2015,
-    "Demand": 107.7669903,
-    "Population": 99.62273049
-  },
-  {
-    "Name": "Queen Margaret",
-    "Year": 2016,
-    "Demand": 96.11650485,
-    "Population": 98.23154916
-  },
-  {
-    "Name": "Queen Margaret",
-    "Year": 2017,
-    "Demand": 94.17475728,
-    "Population": 99.5755718
-  },
-  {
-    "Name": "Queen Margaret",
-    "Year": 2018,
-    "Demand": 86.40776699,
-    "Population": 100.4008489
-  },
-  {
-    "Name": "Queen Mary",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Queen Mary",
-    "Year": 2015,
-    "Demand": 117.403709,
-    "Population": 105.6265985
-  },
-  {
-    "Name": "Queen Mary",
-    "Year": 2016,
-    "Demand": 127.9600571,
-    "Population": 112.8889599
-  },
-  {
-    "Name": "Queen Mary",
-    "Year": 2017,
-    "Demand": 94.72182596,
-    "Population": 125.415601
-  },
-  {
-    "Name": "Queen Mary",
-    "Year": 2018,
-    "Demand": 111.2696148,
-    "Population": 137.4733589
-  },
-  {
-    "Name": "Royal Academy of Music",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Royal Academy of Music",
-    "Year": 2015,
-    "Demand": 140.3508772,
-    "Population": 112.7345845
-  },
-  {
-    "Name": "Royal Academy of Music",
-    "Year": 2016,
-    "Demand": 122.8070175,
-    "Population": 110.8579088
-  },
-  {
-    "Name": "Royal Academy of Music",
-    "Year": 2017,
-    "Demand": 163.1578947,
-    "Population": 107.2386059
-  },
-  {
-    "Name": "Royal Academy of Music",
-    "Year": 2018,
-    "Demand": 191.2280702,
-    "Population": 109.919571
-  },
-  {
     "Name": "Royal Central School",
     "Year": 2014,
     "Demand": 100,
-    "Population": 100
+    "Population": 100,
+    "Include": 1
   },
   {
     "Name": "Royal Central School",
     "Year": 2015,
     "Demand": 188.4057971,
-    "Population": 101.0152284
+    "Population": 101.0152284,
+    "Include": 1
   },
   {
     "Name": "Royal Central School",
     "Year": 2016,
     "Demand": 237.6811594,
-    "Population": 106.0913706
+    "Population": 106.0913706,
+    "Include": 1
   },
   {
     "Name": "Royal Central School",
     "Year": 2017,
     "Demand": 205.7971014,
-    "Population": 111.6751269
+    "Population": 111.6751269,
+    "Include": 1
   },
   {
     "Name": "Royal Central School",
     "Year": 2018,
     "Demand": 242.0289855,
-    "Population": 111.1675127
-  },
-  {
-    "Name": "Royal College of Art",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Royal College of Art",
-    "Year": 2015,
-    "Demand": 116.1016949,
-    "Population": 100.4172462
-  },
-  {
-    "Name": "Royal College of Art",
-    "Year": 2016,
-    "Demand": 131.3559322,
-    "Population": 112.3783032
-  },
-  {
-    "Name": "Royal College of Art",
-    "Year": 2017,
-    "Demand": 101.6949153,
-    "Population": 132.4061196
-  },
-  {
-    "Name": "Royal College of Art",
-    "Year": 2018,
-    "Demand": 106.779661,
-    "Population": 146.3838665
-  },
-  {
-    "Name": "Royal Holloway",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Royal Holloway",
-    "Year": 2015,
-    "Demand": 105.6701031,
-    "Population": 103.0907985
-  },
-  {
-    "Name": "Royal Holloway",
-    "Year": 2016,
-    "Demand": 114.9484536,
-    "Population": 104.1447102
-  },
-  {
-    "Name": "Royal Holloway",
-    "Year": 2017,
-    "Demand": 127.7061856,
-    "Population": 107.4280503
-  },
-  {
-    "Name": "Royal Holloway",
-    "Year": 2018,
-    "Demand": 126.1597938,
-    "Population": 110.6708553
-  },
-  {
-    "Name": "University of Sheffield",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "University of Sheffield",
-    "Year": 2015,
-    "Demand": 133.1369661,
-    "Population": 102.4625935
-  },
-  {
-    "Name": "University of Sheffield",
-    "Year": 2016,
-    "Demand": 131.3696613,
-    "Population": 106.1019327
-  },
-  {
-    "Name": "University of Sheffield",
-    "Year": 2017,
-    "Demand": 145.3608247,
-    "Population": 108.8957294
-  },
-  {
-    "Name": "University of Sheffield",
-    "Year": 2018,
-    "Demand": 205.5964654,
-    "Population": 112.4064838
-  },
-  {
-    "Name": "Sheffield Hallam",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Sheffield Hallam",
-    "Year": 2015,
-    "Demand": 107.1574642,
-    "Population": 95.25967552
-  },
-  {
-    "Name": "Sheffield Hallam",
-    "Year": 2016,
-    "Demand": 99.48875256,
-    "Population": 95.11767727
-  },
-  {
-    "Name": "Sheffield Hallam",
-    "Year": 2017,
-    "Demand": 121.8813906,
-    "Population": 93.10553189
-  },
-  {
-    "Name": "Sheffield Hallam",
-    "Year": 2018,
-    "Demand": 118.5071575,
-    "Population": 98.53469893
-  },
-  {
-    "Name": "University of St Andrews",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "University of St Andrews",
-    "Year": 2015,
-    "Demand": 95.52058111,
-    "Population": 104.4020356
-  },
-  {
-    "Name": "University of St Andrews",
-    "Year": 2016,
-    "Demand": 176.6343826,
-    "Population": 107.1246819
-  },
-  {
-    "Name": "University of St Andrews",
-    "Year": 2017,
-    "Demand": 158.2324455,
-    "Population": 111.7811705
-  },
-  {
-    "Name": "University of St Andrews",
-    "Year": 2018,
-    "Demand": 177.1186441,
-    "Population": 116.2849873
-  },
-  {
-    "Name": "St George's",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "St George's",
-    "Year": 2015,
-    "Demand": 112.0448179,
-    "Population": 122.63748
-  },
-  {
-    "Name": "St George's",
-    "Year": 2016,
-    "Demand": 116.8067227,
-    "Population": 113.0138815
-  },
-  {
-    "Name": "St George's",
-    "Year": 2017,
-    "Demand": 129.9719888,
-    "Population": 108.9161773
-  },
-  {
-    "Name": "St George's",
-    "Year": 2018,
-    "Demand": 133.0532213,
-    "Population": 88.76134544
-  },
-  {
-    "Name": "Staffordshire",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "Staffordshire",
-    "Year": 2015,
-    "Demand": 112.5748503,
-    "Population": 91.3017815
-  },
-  {
-    "Name": "Staffordshire",
-    "Year": 2016,
-    "Demand": 111.9760479,
-    "Population": 89.2519854
-  },
-  {
-    "Name": "Staffordshire",
-    "Year": 2017,
-    "Demand": 123.752495,
-    "Population": 84.56750376
-  },
-  {
-    "Name": "Staffordshire",
-    "Year": 2018,
-    "Demand": 116.9660679,
-    "Population": 80.88109036
-  },
-  {
-    "Name": "University of Strathclyde",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "University of Strathclyde",
-    "Year": 2015,
-    "Demand": 129.3139293,
-    "Population": 104.0920315
-  },
-  {
-    "Name": "University of Strathclyde",
-    "Year": 2016,
-    "Demand": 117.8794179,
-    "Population": 112.7072473
-  },
-  {
-    "Name": "University of Strathclyde",
-    "Year": 2017,
-    "Demand": 135.5509356,
-    "Population": 111.5862501
-  },
-  {
-    "Name": "University of Strathclyde",
-    "Year": 2018,
-    "Demand": 101.4553015,
-    "Population": 109.3168189
-  },
-  {
-    "Name": "University of Surrey",
-    "Year": 2014,
-    "Demand": 100,
-    "Population": 100
-  },
-  {
-    "Name": "University of Surrey",
-    "Year": 2015,
-    "Demand": 125.9552042,
-    "Population": 102.830877
-  },
-  {
-    "Name": "University of Surrey",
-    "Year": 2016,
-    "Demand": 145.1910408,
-    "Population": 111.4840216
-  },
-  {
-    "Name": "University of Surrey",
-    "Year": 2017,
-    "Demand": 193.9393939,
-    "Population": 114.6869984
-  },
-  {
-    "Name": "University of Surrey",
-    "Year": 2018,
-    "Demand": 226.4822134,
-    "Population": 122.7783453
+    "Population": 111.1675127,
+    "Include": 1
   },
   {
     "Name": "University of the Arts London",
     "Year": 2014,
     "Demand": 100,
-    "Population": 100
+    "Population": 100,
+    "Include": 1
   },
   {
     "Name": "University of the Arts London",
     "Year": 2015,
     "Demand": 175.5102041,
-    "Population": 101.6251175
+    "Population": 101.6251175,
+    "Include": 1
   },
   {
     "Name": "University of the Arts London",
     "Year": 2016,
     "Demand": 189.1156463,
-    "Population": 101.1994915
+    "Population": 101.1994915,
+    "Include": 1
   },
   {
     "Name": "University of the Arts London",
     "Year": 2017,
     "Demand": 215.3061224,
-    "Population": 100.8180863
+    "Population": 100.8180863,
+    "Include": 1
   },
   {
     "Name": "University of the Arts London",
     "Year": 2018,
     "Demand": 281.377551,
-    "Population": 105.0024874
+    "Population": 105.0024874,
+    "Include": 1
+  },
+  {
+    "Name": "Edge Hill",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 1
+  },
+  {
+    "Name": "Edge Hill",
+    "Year": 2015,
+    "Demand": 112.4444444,
+    "Population": 96.51405718,
+    "Include": 1
+  },
+  {
+    "Name": "Edge Hill",
+    "Year": 2016,
+    "Demand": 152.2222222,
+    "Population": 92.7475676,
+    "Include": 1
+  },
+  {
+    "Name": "Edge Hill",
+    "Year": 2017,
+    "Demand": 183.5555556,
+    "Population": 90.84940011,
+    "Include": 1
+  },
+  {
+    "Name": "Edge Hill",
+    "Year": 2018,
+    "Demand": 195.1111111,
+    "Population": 85.21458843,
+    "Include": 1
+  },
+  {
+    "Name": "University of Surrey",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 1
+  },
+  {
+    "Name": "University of Surrey",
+    "Year": 2015,
+    "Demand": 125.9552042,
+    "Population": 102.830877,
+    "Include": 1
+  },
+  {
+    "Name": "University of Surrey",
+    "Year": 2016,
+    "Demand": 145.1910408,
+    "Population": 111.4840216,
+    "Include": 1
+  },
+  {
+    "Name": "University of Surrey",
+    "Year": 2017,
+    "Demand": 193.9393939,
+    "Population": 114.6869984,
+    "Include": 1
+  },
+  {
+    "Name": "University of Surrey",
+    "Year": 2018,
+    "Demand": 226.4822134,
+    "Population": 122.7783453,
+    "Include": 1
+  },
+  {
+    "Name": "University of Derby",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 1
+  },
+  {
+    "Name": "University of Derby",
+    "Year": 2015,
+    "Demand": 115.1515152,
+    "Population": 110.9015401,
+    "Include": 1
+  },
+  {
+    "Name": "University of Derby",
+    "Year": 2016,
+    "Demand": 136.026936,
+    "Population": 96.85758782,
+    "Include": 1
+  },
+  {
+    "Name": "University of Derby",
+    "Year": 2017,
+    "Demand": 163.2996633,
+    "Population": 93.44177193,
+    "Include": 1
+  },
+  {
+    "Name": "University of Derby",
+    "Year": 2018,
+    "Demand": 202.5252525,
+    "Population": 93.22028033,
+    "Include": 1
+  },
+  {
+    "Name": "Unversity of Exeter",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 1
+  },
+  {
+    "Name": "Unversity of Exeter",
+    "Year": 2015,
+    "Demand": 108.4609774,
+    "Population": 106.1230019,
+    "Include": 1
+  },
+  {
+    "Name": "Unversity of Exeter",
+    "Year": 2016,
+    "Demand": 127.7169949,
+    "Population": 113.4922785,
+    "Include": 1
+  },
+  {
+    "Name": "Unversity of Exeter",
+    "Year": 2017,
+    "Demand": 179.2122538,
+    "Population": 119.6694663,
+    "Include": 1
+  },
+  {
+    "Name": "Unversity of Exeter",
+    "Year": 2018,
+    "Demand": 187.0897155,
+    "Population": 122.1349228,
+    "Include": 1
+  },
+  {
+    "Name": "University of Sheffield",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 1
+  },
+  {
+    "Name": "University of Sheffield",
+    "Year": 2015,
+    "Demand": 133.1369661,
+    "Population": 102.4625935,
+    "Include": 1
+  },
+  {
+    "Name": "University of Sheffield",
+    "Year": 2016,
+    "Demand": 131.3696613,
+    "Population": 106.1019327,
+    "Include": 1
+  },
+  {
+    "Name": "University of Sheffield",
+    "Year": 2017,
+    "Demand": 145.3608247,
+    "Population": 108.8957294,
+    "Include": 1
+  },
+  {
+    "Name": "University of Sheffield",
+    "Year": 2018,
+    "Demand": 205.5964654,
+    "Population": 112.4064838,
+    "Include": 1
+  },
+  {
+    "Name": "Lancaster",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 1
+  },
+  {
+    "Name": "Lancaster",
+    "Year": 2015,
+    "Demand": 105.9221658,
+    "Population": 99.94584139,
+    "Include": 1
+  },
+  {
+    "Name": "Lancaster",
+    "Year": 2016,
+    "Demand": 136.7174281,
+    "Population": 103.1798839,
+    "Include": 1
+  },
+  {
+    "Name": "Lancaster",
+    "Year": 2017,
+    "Demand": 171.7428088,
+    "Population": 107.2649903,
+    "Include": 1
+  },
+  {
+    "Name": "Lancaster",
+    "Year": 2018,
+    "Demand": 205.2453469,
+    "Population": 112.5647969,
+    "Include": 1
+  },
+  {
+    "Name": "University of Aberdeen",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "University of Aberdeen",
+    "Year": 2015,
+    "Demand": 103.6277603,
+    "Population": 99.4828907,
+    "Include": 0
+  },
+  {
+    "Name": "University of Aberdeen",
+    "Year": 2016,
+    "Demand": 119.5583596,
+    "Population": 100.2234423,
+    "Include": 0
+  },
+  {
+    "Name": "University of Aberdeen",
+    "Year": 2017,
+    "Demand": 129.3375394,
+    "Population": 102.4897855,
+    "Include": 0
+  },
+  {
+    "Name": "University of Aberdeen",
+    "Year": 2018,
+    "Demand": 148.7381703,
+    "Population": 108.0822268,
+    "Include": 0
+  },
+  {
+    "Name": "Abertay",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "Abertay",
+    "Year": 2015,
+    "Demand": 105.0898204,
+    "Population": 91.02180419,
+    "Include": 0
+  },
+  {
+    "Name": "Abertay",
+    "Year": 2016,
+    "Demand": 106.5868263,
+    "Population": 87.49465584,
+    "Include": 0
+  },
+  {
+    "Name": "Abertay",
+    "Year": 2017,
+    "Demand": 110.4790419,
+    "Population": 84.07439077,
+    "Include": 0
+  },
+  {
+    "Name": "Abertay",
+    "Year": 2018,
+    "Demand": 119.760479,
+    "Population": 88.47798204,
+    "Include": 0
+  },
+  {
+    "Name": "Aston",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "Aston",
+    "Year": 2015,
+    "Demand": 108.1871345,
+    "Population": 108.5618125,
+    "Include": 0
+  },
+  {
+    "Name": "Aston",
+    "Year": 2016,
+    "Demand": 113.4502924,
+    "Population": 118.3385323,
+    "Include": 0
+  },
+  {
+    "Name": "Aston",
+    "Year": 2017,
+    "Demand": 148.5380117,
+    "Population": 130.5532753,
+    "Include": 0
+  },
+  {
+    "Name": "Aston",
+    "Year": 2018,
+    "Demand": 176.0233918,
+    "Population": 137.0546708,
+    "Include": 0
+  },
+  {
+    "Name": "University of Bedfordshire",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "University of Bedfordshire",
+    "Year": 2015,
+    "Demand": 114.7208122,
+    "Population": 87.13378406,
+    "Include": 0
+  },
+  {
+    "Name": "University of Bedfordshire",
+    "Year": 2016,
+    "Demand": 112.1827411,
+    "Population": 78.81581643,
+    "Include": 0
+  },
+  {
+    "Name": "University of Bedfordshire",
+    "Year": 2017,
+    "Demand": 119.2893401,
+    "Population": 75.69657857,
+    "Include": 0
+  },
+  {
+    "Name": "University of Bedfordshire",
+    "Year": 2018,
+    "Demand": 101.5228426,
+    "Population": 72.27514854,
+    "Include": 0
+  },
+  {
+    "Name": "Bournemouth",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "Bournemouth",
+    "Year": 2015,
+    "Demand": 100.9584665,
+    "Population": 104.3584838,
+    "Include": 0
+  },
+  {
+    "Name": "Bournemouth",
+    "Year": 2016,
+    "Demand": 109.7444089,
+    "Population": 110.0083702,
+    "Include": 0
+  },
+  {
+    "Name": "Bournemouth",
+    "Year": 2017,
+    "Demand": 143.4504792,
+    "Population": 115.2277891,
+    "Include": 0
+  },
+  {
+    "Name": "Bournemouth",
+    "Year": 2018,
+    "Demand": 140.5750799,
+    "Population": 108.9441588,
+    "Include": 0
+  },
+  {
+    "Name": "University of Bristol",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "University of Bristol",
+    "Year": 2015,
+    "Demand": 101.8656716,
+    "Population": 105.2694212,
+    "Include": 0
+  },
+  {
+    "Name": "University of Bristol",
+    "Year": 2016,
+    "Demand": 108.9552239,
+    "Population": 106.3071211,
+    "Include": 0
+  },
+  {
+    "Name": "University of Bristol",
+    "Year": 2017,
+    "Demand": 125.8084577,
+    "Population": 114.4706778,
+    "Include": 0
+  },
+  {
+    "Name": "University of Bristol",
+    "Year": 2018,
+    "Demand": 123.5696517,
+    "Population": 120.1780274,
+    "Include": 0
+  },
+  {
+    "Name": "Brunel",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "Brunel",
+    "Year": 2015,
+    "Demand": 108.7609512,
+    "Population": 95.33249501,
+    "Include": 0
+  },
+  {
+    "Name": "Brunel",
+    "Year": 2016,
+    "Demand": 132.290363,
+    "Population": 94.51882536,
+    "Include": 0
+  },
+  {
+    "Name": "Brunel",
+    "Year": 2017,
+    "Demand": 139.7997497,
+    "Population": 93.63858274,
+    "Include": 0
+  },
+  {
+    "Name": "Brunel",
+    "Year": 2018,
+    "Demand": 118.2728411,
+    "Population": 98.95702345,
+    "Include": 0
+  },
+  {
+    "Name": "Buckinghamshire New",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "Buckinghamshire New",
+    "Year": 2015,
+    "Demand": 94.22572178,
+    "Population": 94.7059463,
+    "Include": 0
+  },
+  {
+    "Name": "Buckinghamshire New",
+    "Year": 2016,
+    "Demand": 79.00262467,
+    "Population": 88.06391999,
+    "Include": 0
+  },
+  {
+    "Name": "Buckinghamshire New",
+    "Year": 2017,
+    "Demand": 70.86614173,
+    "Population": 84.78095445,
+    "Include": 0
+  },
+  {
+    "Name": "Buckinghamshire New",
+    "Year": 2018,
+    "Demand": 71.65354331,
+    "Population": 73.23622133,
+    "Include": 0
+  },
+  {
+    "Name": "University of Chichester",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "University of Chichester",
+    "Year": 2015,
+    "Demand": 108.3333333,
+    "Population": 96.6282165,
+    "Include": 0
+  },
+  {
+    "Name": "University of Chichester",
+    "Year": 2016,
+    "Demand": 135.6060606,
+    "Population": 97.95918367,
+    "Include": 0
+  },
+  {
+    "Name": "University of Chichester",
+    "Year": 2017,
+    "Demand": 142.4242424,
+    "Population": 98.31410825,
+    "Include": 0
+  },
+  {
+    "Name": "University of Chichester",
+    "Year": 2018,
+    "Demand": 155.3030303,
+    "Population": 97.16060337,
+    "Include": 0
+  },
+  {
+    "Name": "Cranfield",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "Cranfield",
+    "Year": 2015,
+    "Demand": 117,
+    "Population": 123.6803519,
+    "Include": 0
+  },
+  {
+    "Name": "Cranfield",
+    "Year": 2016,
+    "Demand": 115,
+    "Population": 114.4244868,
+    "Include": 0
+  },
+  {
+    "Name": "Cranfield",
+    "Year": 2017,
+    "Demand": 104,
+    "Population": 125.6781525,
+    "Include": 0
+  },
+  {
+    "Name": "Cranfield",
+    "Year": 2018,
+    "Demand": 107,
+    "Population": 127.181085,
+    "Include": 0
+  },
+  {
+    "Name": "University of Dundee",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "University of Dundee",
+    "Year": 2015,
+    "Demand": 111.4420063,
+    "Population": 98.26186885,
+    "Include": 0
+  },
+  {
+    "Name": "University of Dundee",
+    "Year": 2016,
+    "Demand": 111.5987461,
+    "Population": 96.06406665,
+    "Include": 0
+  },
+  {
+    "Name": "University of Dundee",
+    "Year": 2017,
+    "Demand": 129.153605,
+    "Population": 101.79559,
+    "Include": 0
+  },
+  {
+    "Name": "University of Dundee",
+    "Year": 2018,
+    "Demand": 145.4545455,
+    "Population": 106.5574948,
+    "Include": 0
+  },
+  {
+    "Name": "University of East Anglia",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "University of East Anglia",
+    "Year": 2015,
+    "Demand": 78.00237812,
+    "Population": 98.22152184,
+    "Include": 0
+  },
+  {
+    "Name": "University of East Anglia",
+    "Year": 2016,
+    "Demand": 54.8156956,
+    "Population": 101.0074291,
+    "Include": 0
+  },
+  {
+    "Name": "University of East Anglia",
+    "Year": 2017,
+    "Demand": 46.73008323,
+    "Population": 107.7949122,
+    "Include": 0
+  },
+  {
+    "Name": "University of East Anglia",
+    "Year": 2018,
+    "Demand": 51.843044,
+    "Population": 112.73638,
+    "Include": 0
+  },
+  {
+    "Name": "University of Essex",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "University of Essex",
+    "Year": 2015,
+    "Demand": 90.14373717,
+    "Population": 104.9424256,
+    "Include": 0
+  },
+  {
+    "Name": "University of Essex",
+    "Year": 2016,
+    "Demand": 83.9835729,
+    "Population": 105.2938537,
+    "Include": 0
+  },
+  {
+    "Name": "University of Essex",
+    "Year": 2017,
+    "Demand": 68.78850103,
+    "Population": 113.0701361,
+    "Include": 0
+  },
+  {
+    "Name": "University of Essex",
+    "Year": 2018,
+    "Demand": 62.21765914,
+    "Population": 112.4644833,
+    "Include": 0
+  },
+  {
+    "Name": "University of Glasgow",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "University of Glasgow",
+    "Year": 2015,
+    "Demand": 112.8856624,
+    "Population": 101.7878329,
+    "Include": 0
+  },
+  {
+    "Name": "University of Glasgow",
+    "Year": 2016,
+    "Demand": 126.6182698,
+    "Population": 105.1589412,
+    "Include": 0
+  },
+  {
+    "Name": "University of Glasgow",
+    "Year": 2017,
+    "Demand": 140.9558379,
+    "Population": 108.9555292,
+    "Include": 0
+  },
+  {
+    "Name": "University of Glasgow",
+    "Year": 2018,
+    "Demand": 148.6388385,
+    "Population": 113.8771837,
+    "Include": 0
+  },
+  {
+    "Name": "Glyndwr",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "Glyndwr",
+    "Year": 2015,
+    "Demand": 105.5045872,
+    "Population": 80.48780488,
+    "Include": 0
+  },
+  {
+    "Name": "Glyndwr",
+    "Year": 2016,
+    "Demand": 134.8623853,
+    "Population": 79.23854848,
+    "Include": 0
+  },
+  {
+    "Name": "Glyndwr",
+    "Year": 2017,
+    "Demand": 121.1009174,
+    "Population": 76.34741225,
+    "Include": 0
+  },
+  {
+    "Name": "Glyndwr",
+    "Year": 2018,
+    "Demand": 161.4678899,
+    "Population": 68.63771565,
+    "Include": 0
+  },
+  {
+    "Name": "Goldsmiths, London",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "Goldsmiths, London",
+    "Year": 2015,
+    "Demand": 100,
+    "Population": 101.1624381,
+    "Include": 0
+  },
+  {
+    "Name": "Goldsmiths, London",
+    "Year": 2016,
+    "Demand": 88.27292111,
+    "Population": 104.8620237,
+    "Include": 0
+  },
+  {
+    "Name": "Goldsmiths, London",
+    "Year": 2017,
+    "Demand": 91.25799574,
+    "Population": 115.9102396,
+    "Include": 0
+  },
+  {
+    "Name": "Goldsmiths, London",
+    "Year": 2018,
+    "Demand": 100.8528785,
+    "Population": 125.3512585,
+    "Include": 0
+  },
+  {
+    "Name": "Guildhall School",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "Guildhall School",
+    "Year": 2015,
+    "Demand": 110.4972376,
+    "Population": 103.0837004,
+    "Include": 0
+  },
+  {
+    "Name": "Guildhall School",
+    "Year": 2016,
+    "Demand": 138.121547,
+    "Population": 105.6167401,
+    "Include": 0
+  },
+  {
+    "Name": "Guildhall School",
+    "Year": 2017,
+    "Demand": 138.6740331,
+    "Population": 120.0440529,
+    "Include": 0
+  },
+  {
+    "Name": "Guildhall School",
+    "Year": 2018,
+    "Demand": 146.4088398,
+    "Population": 147.1365639,
+    "Include": 0
+  },
+  {
+    "Name": "Harper Adams",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "Harper Adams",
+    "Year": 2015,
+    "Demand": 71.13702624,
+    "Population": 107.6655052,
+    "Include": 0
+  },
+  {
+    "Name": "Harper Adams",
+    "Year": 2016,
+    "Demand": 80.4664723,
+    "Population": 120.1475712,
+    "Include": 0
+  },
+  {
+    "Name": "Harper Adams",
+    "Year": 2017,
+    "Demand": 68.22157434,
+    "Population": 93.81020701,
+    "Include": 0
+  },
+  {
+    "Name": "Harper Adams",
+    "Year": 2018,
+    "Demand": 138.483965,
+    "Population": 110.5349457,
+    "Include": 0
+  },
+  {
+    "Name": "Keele",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "Keele",
+    "Year": 2015,
+    "Demand": 109.7946288,
+    "Population": 96.08231104,
+    "Include": 0
+  },
+  {
+    "Name": "Keele",
+    "Year": 2016,
+    "Demand": 126.8562401,
+    "Population": 104.9267907,
+    "Include": 0
+  },
+  {
+    "Name": "Keele",
+    "Year": 2017,
+    "Demand": 138.3886256,
+    "Population": 109.0918085,
+    "Include": 0
+  },
+  {
+    "Name": "Keele",
+    "Year": 2018,
+    "Demand": 164.2969984,
+    "Population": 110.9517214,
+    "Include": 0
+  },
+  {
+    "Name": "Kingston",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "Kingston",
+    "Year": 2015,
+    "Demand": 90.07352941,
+    "Population": 95.62320718,
+    "Include": 0
+  },
+  {
+    "Name": "Kingston",
+    "Year": 2016,
+    "Demand": 81.98529412,
+    "Population": 92.15323401,
+    "Include": 0
+  },
+  {
+    "Name": "Kingston",
+    "Year": 2017,
+    "Demand": 68.01470588,
+    "Population": 92.03756824,
+    "Include": 0
+  },
+  {
+    "Name": "Kingston",
+    "Year": 2018,
+    "Demand": 87.13235294,
+    "Population": 81.18349218,
+    "Include": 0
+  },
+  {
+    "Name": "Leeds Beckett",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "Leeds Beckett",
+    "Year": 2015,
+    "Demand": 160,
+    "Population": 100.652318,
+    "Include": 0
+  },
+  {
+    "Name": "Leeds Beckett",
+    "Year": 2016,
+    "Demand": 152.4137931,
+    "Population": 97.91746608,
+    "Include": 0
+  },
+  {
+    "Name": "Leeds Beckett",
+    "Year": 2017,
+    "Demand": 153.4482759,
+    "Population": 95.64307392,
+    "Include": 0
+  },
+  {
+    "Name": "Leeds Beckett",
+    "Year": 2018,
+    "Demand": 131.7241379,
+    "Population": 90.4524366,
+    "Include": 0
+  },
+  {
+    "Name": "University of Leicester",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "University of Leicester",
+    "Year": 2015,
+    "Demand": 96.27329193,
+    "Population": 96.06693364,
+    "Include": 0
+  },
+  {
+    "Name": "University of Leicester",
+    "Year": 2016,
+    "Demand": 148.0745342,
+    "Population": 91.4187643,
+    "Include": 0
+  },
+  {
+    "Name": "University of Leicester",
+    "Year": 2017,
+    "Demand": 183.6024845,
+    "Population": 96.77250191,
+    "Include": 0
+  },
+  {
+    "Name": "University of Leicester",
+    "Year": 2018,
+    "Demand": 204.5962733,
+    "Population": 91.29481312,
+    "Include": 0
+  },
+  {
+    "Name": "Loughborough",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "Loughborough",
+    "Year": 2015,
+    "Demand": 109.752322,
+    "Population": 98.3369959,
+    "Include": 0
+  },
+  {
+    "Name": "Loughborough",
+    "Year": 2016,
+    "Demand": 118.8854489,
+    "Population": 104.9593158,
+    "Include": 0
+  },
+  {
+    "Name": "Loughborough",
+    "Year": 2017,
+    "Demand": 122.9102167,
+    "Population": 106.8895884,
+    "Include": 0
+  },
+  {
+    "Name": "Loughborough",
+    "Year": 2018,
+    "Demand": 126.9349845,
+    "Population": 105.7611213,
+    "Include": 0
+  },
+  {
+    "Name": "Newcastle",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "Newcastle",
+    "Year": 2015,
+    "Demand": 129.6725784,
+    "Population": 103.7269451,
+    "Include": 0
+  },
+  {
+    "Name": "Newcastle",
+    "Year": 2016,
+    "Demand": 166.9849932,
+    "Population": 107.50477,
+    "Include": 0
+  },
+  {
+    "Name": "Newcastle",
+    "Year": 2017,
+    "Demand": 157.5716235,
+    "Population": 113.008268,
+    "Include": 0
+  },
+  {
+    "Name": "Newcastle",
+    "Year": 2018,
+    "Demand": 157.7762619,
+    "Population": 117.1592114,
+    "Include": 0
+  },
+  {
+    "Name": "Queen Margaret",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "Queen Margaret",
+    "Year": 2015,
+    "Demand": 107.7669903,
+    "Population": 99.62273049,
+    "Include": 0
+  },
+  {
+    "Name": "Queen Margaret",
+    "Year": 2016,
+    "Demand": 96.11650485,
+    "Population": 98.23154916,
+    "Include": 0
+  },
+  {
+    "Name": "Queen Margaret",
+    "Year": 2017,
+    "Demand": 94.17475728,
+    "Population": 99.5755718,
+    "Include": 0
+  },
+  {
+    "Name": "Queen Margaret",
+    "Year": 2018,
+    "Demand": 86.40776699,
+    "Population": 100.4008489,
+    "Include": 0
+  },
+  {
+    "Name": "Queen Mary",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "Queen Mary",
+    "Year": 2015,
+    "Demand": 117.403709,
+    "Population": 105.6265985,
+    "Include": 0
+  },
+  {
+    "Name": "Queen Mary",
+    "Year": 2016,
+    "Demand": 127.9600571,
+    "Population": 112.8889599,
+    "Include": 0
+  },
+  {
+    "Name": "Queen Mary",
+    "Year": 2017,
+    "Demand": 94.72182596,
+    "Population": 125.415601,
+    "Include": 0
+  },
+  {
+    "Name": "Queen Mary",
+    "Year": 2018,
+    "Demand": 111.2696148,
+    "Population": 137.4733589,
+    "Include": 0
+  },
+  {
+    "Name": "Royal Academy of Music",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "Royal Academy of Music",
+    "Year": 2015,
+    "Demand": 140.3508772,
+    "Population": 112.7345845,
+    "Include": 0
+  },
+  {
+    "Name": "Royal Academy of Music",
+    "Year": 2016,
+    "Demand": 122.8070175,
+    "Population": 110.8579088,
+    "Include": 0
+  },
+  {
+    "Name": "Royal Academy of Music",
+    "Year": 2017,
+    "Demand": 163.1578947,
+    "Population": 107.2386059,
+    "Include": 0
+  },
+  {
+    "Name": "Royal Academy of Music",
+    "Year": 2018,
+    "Demand": 191.2280702,
+    "Population": 109.919571,
+    "Include": 0
+  },
+  {
+    "Name": "Royal College of Art",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "Royal College of Art",
+    "Year": 2015,
+    "Demand": 116.1016949,
+    "Population": 100.4172462,
+    "Include": 0
+  },
+  {
+    "Name": "Royal College of Art",
+    "Year": 2016,
+    "Demand": 131.3559322,
+    "Population": 112.3783032,
+    "Include": 0
+  },
+  {
+    "Name": "Royal College of Art",
+    "Year": 2017,
+    "Demand": 101.6949153,
+    "Population": 132.4061196,
+    "Include": 0
+  },
+  {
+    "Name": "Royal College of Art",
+    "Year": 2018,
+    "Demand": 106.779661,
+    "Population": 146.3838665,
+    "Include": 0
+  },
+  {
+    "Name": "Royal Holloway",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "Royal Holloway",
+    "Year": 2015,
+    "Demand": 105.6701031,
+    "Population": 103.0907985,
+    "Include": 0
+  },
+  {
+    "Name": "Royal Holloway",
+    "Year": 2016,
+    "Demand": 114.9484536,
+    "Population": 104.1447102,
+    "Include": 0
+  },
+  {
+    "Name": "Royal Holloway",
+    "Year": 2017,
+    "Demand": 127.7061856,
+    "Population": 107.4280503,
+    "Include": 0
+  },
+  {
+    "Name": "Royal Holloway",
+    "Year": 2018,
+    "Demand": 126.1597938,
+    "Population": 110.6708553,
+    "Include": 0
+  },
+  {
+    "Name": "Sheffield Hallam",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "Sheffield Hallam",
+    "Year": 2015,
+    "Demand": 107.1574642,
+    "Population": 95.25967552,
+    "Include": 0
+  },
+  {
+    "Name": "Sheffield Hallam",
+    "Year": 2016,
+    "Demand": 99.48875256,
+    "Population": 95.11767727,
+    "Include": 0
+  },
+  {
+    "Name": "Sheffield Hallam",
+    "Year": 2017,
+    "Demand": 121.8813906,
+    "Population": 93.10553189,
+    "Include": 0
+  },
+  {
+    "Name": "Sheffield Hallam",
+    "Year": 2018,
+    "Demand": 118.5071575,
+    "Population": 98.53469893,
+    "Include": 0
+  },
+  {
+    "Name": "University of St Andrews",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "University of St Andrews",
+    "Year": 2015,
+    "Demand": 95.52058111,
+    "Population": 104.4020356,
+    "Include": 0
+  },
+  {
+    "Name": "University of St Andrews",
+    "Year": 2016,
+    "Demand": 176.6343826,
+    "Population": 107.1246819,
+    "Include": 0
+  },
+  {
+    "Name": "University of St Andrews",
+    "Year": 2017,
+    "Demand": 158.2324455,
+    "Population": 111.7811705,
+    "Include": 0
+  },
+  {
+    "Name": "University of St Andrews",
+    "Year": 2018,
+    "Demand": 177.1186441,
+    "Population": 116.2849873,
+    "Include": 0
+  },
+  {
+    "Name": "St George's",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "St George's",
+    "Year": 2015,
+    "Demand": 112.0448179,
+    "Population": 122.63748,
+    "Include": 0
+  },
+  {
+    "Name": "St George's",
+    "Year": 2016,
+    "Demand": 116.8067227,
+    "Population": 113.0138815,
+    "Include": 0
+  },
+  {
+    "Name": "St George's",
+    "Year": 2017,
+    "Demand": 129.9719888,
+    "Population": 108.9161773,
+    "Include": 0
+  },
+  {
+    "Name": "St George's",
+    "Year": 2018,
+    "Demand": 133.0532213,
+    "Population": 88.76134544,
+    "Include": 0
+  },
+  {
+    "Name": "Staffordshire",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "Staffordshire",
+    "Year": 2015,
+    "Demand": 112.5748503,
+    "Population": 91.3017815,
+    "Include": 0
+  },
+  {
+    "Name": "Staffordshire",
+    "Year": 2016,
+    "Demand": 111.9760479,
+    "Population": 89.2519854,
+    "Include": 0
+  },
+  {
+    "Name": "Staffordshire",
+    "Year": 2017,
+    "Demand": 123.752495,
+    "Population": 84.56750376,
+    "Include": 0
+  },
+  {
+    "Name": "Staffordshire",
+    "Year": 2018,
+    "Demand": 116.9660679,
+    "Population": 80.88109036,
+    "Include": 0
+  },
+  {
+    "Name": "University of Strathclyde",
+    "Year": 2014,
+    "Demand": 100,
+    "Population": 100,
+    "Include": 0
+  },
+  {
+    "Name": "University of Strathclyde",
+    "Year": 2015,
+    "Demand": 129.3139293,
+    "Population": 104.0920315,
+    "Include": 0
+  },
+  {
+    "Name": "University of Strathclyde",
+    "Year": 2016,
+    "Demand": 117.8794179,
+    "Population": 112.7072473,
+    "Include": 0
+  },
+  {
+    "Name": "University of Strathclyde",
+    "Year": 2017,
+    "Demand": 135.5509356,
+    "Population": 111.5862501,
+    "Include": 0
+  },
+  {
+    "Name": "University of Strathclyde",
+    "Year": 2018,
+    "Demand": 101.4553015,
+    "Population": 109.3168189,
+    "Include": 0
   },
   {
     "Name": "Ulster",
     "Year": 2014,
     "Demand": 100,
-    "Population": 100
+    "Population": 100,
+    "Include": 0
   },
   {
     "Name": "Ulster",
     "Year": 2015,
     "Demand": 180.4393305,
-    "Population": 100.8375397
+    "Population": 100.8375397,
+    "Include": 0
   },
   {
     "Name": "Ulster",
     "Year": 2016,
     "Demand": 116.3179916,
-    "Population": 93.69601795
+    "Population": 93.69601795,
+    "Include": 0
   },
   {
     "Name": "Ulster",
     "Year": 2017,
     "Demand": 135.6694561,
-    "Population": 90.70106562
+    "Population": 90.70106562,
+    "Include": 0
   },
   {
     "Name": "Ulster",
     "Year": 2018,
     "Demand": 174.4769874,
-    "Population": 89.69153113
+    "Population": 89.69153113,
+    "Include": 0
   },
   {
     "Name": "University College London",
     "Year": 2014,
     "Demand": 100,
-    "Population": 100
+    "Population": 100,
+    "Include": 0
   },
   {
     "Name": "University College London",
     "Year": 2015,
     "Demand": 102.9874214,
-    "Population": 105.862989
+    "Population": 105.862989,
+    "Include": 0
   },
   {
     "Name": "University College London",
     "Year": 2016,
     "Demand": 118.7893082,
-    "Population": 132.7592779
+    "Population": 132.7592779,
+    "Include": 0
   },
   {
     "Name": "University College London",
     "Year": 2017,
     "Demand": 118.8286164,
-    "Population": 136.7788212
+    "Population": 136.7788212,
+    "Include": 0
   },
   {
     "Name": "University College London",
     "Year": 2018,
     "Demand": 111.2421384,
-    "Population": 143.9377664
+    "Population": 143.9377664,
+    "Include": 0
   },
   {
     "Name": "University of Westminster",
     "Year": 2014,
     "Demand": 100,
-    "Population": 100
+    "Population": 100,
+    "Include": 0
   },
   {
     "Name": "University of Westminster",
     "Year": 2015,
     "Demand": 90.55851064,
-    "Population": 101.3118812
+    "Population": 101.3118812,
+    "Include": 0
   },
   {
     "Name": "University of Westminster",
     "Year": 2016,
     "Demand": 101.5957447,
-    "Population": 99.97524752
+    "Population": 99.97524752,
+    "Include": 0
   },
   {
     "Name": "University of Westminster",
     "Year": 2017,
     "Demand": 100.7978723,
-    "Population": 97.27722772
+    "Population": 97.27722772,
+    "Include": 0
   },
   {
     "Name": "University of Westminster",
     "Year": 2018,
     "Demand": 114.2287234,
-    "Population": 96.66831683
+    "Population": 96.66831683,
+    "Include": 0
   },
   {
     "Name": "University of York",
     "Year": 2014,
     "Demand": 100,
-    "Population": 100
+    "Population": 100,
+    "Include": 0
   },
   {
     "Name": "University of York",
     "Year": 2015,
     "Demand": 110.951526,
-    "Population": 100.7090012
+    "Population": 100.7090012,
+    "Include": 0
   },
   {
     "Name": "University of York",
     "Year": 2016,
     "Demand": 108.438061,
-    "Population": 101.0480888
+    "Population": 101.0480888,
+    "Include": 0
   },
   {
     "Name": "University of York",
     "Year": 2017,
     "Demand": 100.8378217,
-    "Population": 107.7681874
+    "Population": 107.7681874,
+    "Include": 0
   },
   {
     "Name": "University of York",
     "Year": 2018,
     "Demand": 130.9395572,
-    "Population": 111.6522811
+    "Population": 111.6522811,
+    "Include": 0
   },
   {
     "Name": "York St John",
     "Year": 2014,
     "Demand": 100,
-    "Population": 100
+    "Population": 100,
+    "Include": 0
   },
   {
     "Name": "York St John",
     "Year": 2015,
     "Demand": 121.9665272,
-    "Population": 102.6172622
+    "Population": 102.6172622,
+    "Include": 0
   },
   {
     "Name": "York St John",
     "Year": 2016,
     "Demand": 135.9832636,
-    "Population": 94.23614174
+    "Population": 94.23614174,
+    "Include": 0
   },
   {
     "Name": "York St John",
     "Year": 2017,
     "Demand": 124.8953975,
-    "Population": 89.19276577
+    "Population": 89.19276577,
+    "Include": 0
   },
   {
     "Name": "York St John",
     "Year": 2018,
     "Demand": 124.2677824,
-    "Population": 93.29510366
+    "Population": 93.29510366,
+    "Include": 0
   }
 ]
