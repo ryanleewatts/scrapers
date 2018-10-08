@@ -6,22 +6,58 @@
     "Under_18": 100
   },
   {
-    "Region": "Total",
-    "Year": 2014,
-    "Over_18": 105.3092323,
-    "Under_18": 126.7806268
+    "Region": "East England",
+    "Year": 2013,
+    "Over_18": 100,
+    "Under_18": 100
   },
   {
-    "Region": "Total",
-    "Year": 2015,
-    "Over_18": 112.9127199,
-    "Under_18": 133.4110334
+    "Region": "East Midlands",
+    "Year": 2013,
+    "Over_18": 100,
+    "Under_18": 100
   },
   {
-    "Region": "Total",
-    "Year": 2016,
-    "Over_18": 118.8110856,
-    "Under_18": 125.3885004
+    "Region": "London",
+    "Year": 2013,
+    "Over_18": 100,
+    "Under_18": 100
+  },
+  {
+    "Region": "North West",
+    "Year": 2013,
+    "Over_18": 100,
+    "Under_18": 100
+  },
+  {
+    "Region": "South Central",
+    "Year": 2013,
+    "Over_18": 100,
+    "Under_18": 100
+  },
+  {
+    "Region": "South Western",
+    "Year": 2013,
+    "Over_18": 100,
+    "Under_18": 100
+  },
+  {
+    "Region": "South-East Coast",
+    "Year": 2013,
+    "Over_18": 100,
+    "Under_18": 100
+  },
+  {
+    "Region": "West Midlands",
+    "Year": 2013,
+    "Over_18": 100,
+    "Under_18": 100
+  },
+  {
+    "Region": "York",
+    "Year": 2013,
+    "Over_18": 100,
+    "Under_18": 100
   },
   {
     "Region": "Total",
@@ -31,57 +67,9 @@
   },
   {
     "Region": "East England",
-    "Year": 2013,
-    "Over_18": 100,
-    "Under_18": 100
-  },
-  {
-    "Region": "East England",
-    "Year": 2014,
-    "Over_18": 98.47768533,
-    "Under_18": 105.0235479
-  },
-  {
-    "Region": "East England",
-    "Year": 2015,
-    "Over_18": 127.8933434,
-    "Under_18": 130.7692308
-  },
-  {
-    "Region": "East England",
-    "Year": 2016,
-    "Over_18": 129.0941755,
-    "Under_18": 139.8744113
-  },
-  {
-    "Region": "East England",
     "Year": 2017,
     "Over_18": 102.0234493,
     "Under_18": 97.17425432
-  },
-  {
-    "Region": "East Midlands",
-    "Year": 2013,
-    "Over_18": 100,
-    "Under_18": 100
-  },
-  {
-    "Region": "East Midlands",
-    "Year": 2014,
-    "Over_18": 86.4134926,
-    "Under_18": 85.30499076
-  },
-  {
-    "Region": "East Midlands",
-    "Year": 2015,
-    "Over_18": 87.3300278,
-    "Under_18": 85.48983364
-  },
-  {
-    "Region": "East Midlands",
-    "Year": 2016,
-    "Over_18": 83.37465254,
-    "Under_18": 75
   },
   {
     "Region": "East Midlands",
@@ -91,57 +79,9 @@
   },
   {
     "Region": "London",
-    "Year": 2013,
-    "Over_18": 100,
-    "Under_18": 100
-  },
-  {
-    "Region": "London",
-    "Year": 2014,
-    "Over_18": 97.17393875,
-    "Under_18": 92.64705882
-  },
-  {
-    "Region": "London",
-    "Year": 2015,
-    "Over_18": 109.4241457,
-    "Under_18": 96.74163783
-  },
-  {
-    "Region": "London",
-    "Year": 2016,
-    "Over_18": 122.4665957,
-    "Under_18": 109.0542099
-  },
-  {
-    "Region": "London",
     "Year": 2017,
     "Over_18": 130.3890268,
     "Under_18": 125.2018454
-  },
-  {
-    "Region": "North West",
-    "Year": 2013,
-    "Over_18": 100,
-    "Under_18": 100
-  },
-  {
-    "Region": "North West",
-    "Year": 2014,
-    "Over_18": 99.97726187,
-    "Under_18": 108.2848837
-  },
-  {
-    "Region": "North West",
-    "Year": 2015,
-    "Over_18": 110.1707633,
-    "Under_18": 121.0755814
-  },
-  {
-    "Region": "North West",
-    "Year": 2016,
-    "Over_18": 122.6198868,
-    "Under_18": 129.1787791
   },
   {
     "Region": "North West",
@@ -151,57 +91,9 @@
   },
   {
     "Region": "South Central",
-    "Year": 2013,
-    "Over_18": 100,
-    "Under_18": 100
-  },
-  {
-    "Region": "South Central",
-    "Year": 2014,
-    "Over_18": 118.503937,
-    "Under_18": 145.4277286
-  },
-  {
-    "Region": "South Central",
-    "Year": 2015,
-    "Over_18": 137.9077615,
-    "Under_18": 170.7964602
-  },
-  {
-    "Region": "South Central",
-    "Year": 2016,
-    "Over_18": 166.2542182,
-    "Under_18": 196.7551622
-  },
-  {
-    "Region": "South Central",
     "Year": 2017,
     "Over_18": 171.1332958,
     "Under_18": 200.8849558
-  },
-  {
-    "Region": "South Western",
-    "Year": 2013,
-    "Over_18": 100,
-    "Under_18": 100
-  },
-  {
-    "Region": "South Western",
-    "Year": 2014,
-    "Over_18": 139.5168352,
-    "Under_18": 154.2735043
-  },
-  {
-    "Region": "South Western",
-    "Year": 2015,
-    "Over_18": 148.6667197,
-    "Under_18": 191.6666667
-  },
-  {
-    "Region": "South Western",
-    "Year": 2016,
-    "Over_18": 161.2990528,
-    "Under_18": 330.3418803
   },
   {
     "Region": "South Western",
@@ -211,87 +103,15 @@
   },
   {
     "Region": "South-East Coast",
-    "Year": 2013,
-    "Over_18": 100,
-    "Under_18": 100
-  },
-  {
-    "Region": "South-East Coast",
-    "Year": 2014,
-    "Over_18": 108.0112011,
-    "Under_18": 480.5985552
-  },
-  {
-    "Region": "South-East Coast",
-    "Year": 2015,
-    "Over_18": 123.0900347,
-    "Under_18": 456.5531476
-  },
-  {
-    "Region": "South-East Coast",
-    "Year": 2016,
-    "Over_18": 123.6379132,
-    "Under_18": 123.3230134
-  },
-  {
-    "Region": "South-East Coast",
     "Year": 2017,
     "Over_18": 87.17964327,
     "Under_18": 77.8121775
   },
   {
     "Region": "West Midlands",
-    "Year": 2013,
-    "Over_18": 100,
-    "Under_18": 100
-  },
-  {
-    "Region": "West Midlands",
-    "Year": 2014,
-    "Over_18": 103.8256303,
-    "Under_18": 99.05107452
-  },
-  {
-    "Region": "West Midlands",
-    "Year": 2015,
-    "Over_18": 106.5756303,
-    "Under_18": 103.7957019
-  },
-  {
-    "Region": "West Midlands",
-    "Year": 2016,
-    "Over_18": 106.4327731,
-    "Under_18": 105.6098242
-  },
-  {
-    "Region": "West Midlands",
     "Year": 2017,
     "Over_18": 108.644958,
     "Under_18": 106.5308401
-  },
-  {
-    "Region": "York",
-    "Year": 2013,
-    "Over_18": 100,
-    "Under_18": 100
-  },
-  {
-    "Region": "York",
-    "Year": 2014,
-    "Over_18": 101.6354963,
-    "Under_18": 122.3154362
-  },
-  {
-    "Region": "York",
-    "Year": 2015,
-    "Over_18": 92.54940562,
-    "Under_18": 120.4697987
-  },
-  {
-    "Region": "York",
-    "Year": 2016,
-    "Over_18": 99.21253881,
-    "Under_18": 130.2013423
   },
   {
     "Region": "York",
